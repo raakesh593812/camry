@@ -1,0 +1,1984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quasar form\n"
+"POT-Creation-Date: 2021-08-20 21:43+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Myname <nucleusgenius@mail.com>\n"
+"Language-Team: nucleusgenius\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: quasar-form\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:15
+msgid "Free version"
+msgstr "Бесплатная версия"
+
+#: admin.php:19
+msgid "License"
+msgstr "Лицензия"
+
+#: admin.php:20
+msgid "Speed settings"
+msgstr "Настройки скорости"
+
+#: admin.php:25
+msgid ""
+"If your goal is the maximum website loading speed and the \"PageSpeed "
+"Insights\" (Google speed) indicator is important for you, you can disable "
+"libraries that are not used in the forms. If you disable all libraries, the "
+"plugin will affect the website loading speed by 0.5%."
+msgstr ""
+"Если ваша цель - максимальная скорость загрузки веб-сайта и для вас важен "
+"индикатор \"PageSpeed Insights\" (индекс скорости от Google), вы можете "
+"отключить библиотеки, которые не используются в формах. Если вы отключите "
+"все библиотеки, плагин будет влиять на скорость загрузки сайта в пределах "
+"0,5%."
+
+#: admin.php:30
+msgid "Disable the fa fa icons library"
+msgstr "Отключить библиотеку иконок fa fa"
+
+#: admin.php:34
+msgid "Disable the \"Datepicker\" field library"
+msgstr "Отключить библиотеку поля \"Выбор даты\""
+
+#: admin.php:38
+msgid "Disable the \"Slider\" field library"
+msgstr "Отключить библиотеку поля \"Ползунок\""
+
+#: admin.php:42
+msgid "Disable the phone mask library in the \"Phone input\" field"
+msgstr "Отключите библиотеку масок телефона в \"Поле для телефона\""
+
+#: admin.php:46
+msgid "Disable calculator library"
+msgstr "Отключить библиотеку калькулятора"
+
+#: admin.php:51
+msgid "Save setting"
+msgstr "Сохранить настройки"
+
+#: admin.php:53
+msgid "Error while saving"
+msgstr "Ошибка при сохранении"
+
+#: admin.php:54 admin.php:1083
+msgid "Form saved"
+msgstr "Сохранить форму"
+
+#: admin.php:70
+msgid "Please activate the plugin"
+msgstr ""
+
+#: admin.php:72
+msgid "Enter product key"
+msgstr ""
+
+#: admin.php:74
+msgid "Activate"
+msgstr ""
+
+#: admin.php:81
+msgid "Plugin activated"
+msgstr ""
+
+#: admin.php:82
+msgid ""
+"You can contact support if you encounter problems with the operation of the "
+"plugin."
+msgstr ""
+
+#: admin.php:86
+msgid "Plugin not activated"
+msgstr ""
+
+#: admin.php:87
+msgid "Support service is not available for you."
+msgstr "Служба поддержки для Вас доступна."
+
+#: admin.php:98 admin.php:996 quasar-form-main.php:351
+msgid "Select form"
+msgstr "Выберите форму"
+
+#: admin.php:102
+msgid "Сreating a new form"
+msgstr "Создание новой формы"
+
+#: admin.php:104 admin.php:1032 quasar-form-main.php:354
+msgid "Form name"
+msgstr "Имя формы"
+
+#: admin.php:107 admin.php:119
+msgid "Сreate form"
+msgstr "Создать форму"
+
+#: admin.php:115
+msgid "Yes"
+msgstr "Да"
+
+#: admin.php:116
+msgid "No"
+msgstr "Нет"
+
+#: admin.php:123
+msgid "ID"
+msgstr "ID"
+
+#: admin.php:124
+msgid "Name and shortcode"
+msgstr "Имя и шорт код"
+
+#: admin.php:125
+msgid "Last-edit"
+msgstr "Последнее изменение"
+
+#: admin.php:142
+msgid "more than a year ago"
+msgstr "больше года назад"
+
+#: admin.php:144
+msgid "last year"
+msgstr "в прошлом году"
+
+#: admin.php:151
+msgid "last month"
+msgstr "в прошлом месяце"
+
+#: admin.php:152 admin.php:153
+msgid " months ago"
+msgstr "  месяцев(я) назад"
+
+#: admin.php:160
+msgid "yesterday"
+msgstr "вчера"
+
+#: admin.php:161 admin.php:162
+msgid " days ago"
+msgstr " дней(я) назад"
+
+#: admin.php:169
+msgid "hour ago"
+msgstr "час назад"
+
+#: admin.php:170 admin.php:171
+msgid " hours ago"
+msgstr " часов(а) назад"
+
+#: admin.php:174
+msgid " less than an hour ago"
+msgstr " меньше часа назад"
+
+#: admin.php:231
+msgid "Shortcode for popup form looks like this:"
+msgstr "Шорт код для всплывающей формы выглядит так:"
+
+#: admin.php:239
+msgid "Last 30 emails"
+msgstr "Последние 30 писем"
+
+#: admin.php:311 admin.php:925
+msgid "Available only in pro version"
+msgstr "Доступно только в pro версии"
+
+#: admin.php:314
+msgid "https://quasar-form.com/help/using-conditional-logic/"
+msgstr "https://quasar-form.com/pomoshh/ispolzovanie-logiki/?lang=ru"
+
+#: admin.php:314
+msgid "Description of the operation of logic with examples"
+msgstr "Описание работы логики с примерами"
+
+#: admin.php:321
+msgid "Setting email"
+msgstr "Настройка почты"
+
+#: admin.php:322
+msgid "Text after sending form"
+msgstr "Текст после отправки"
+
+#: admin.php:323
+msgid "Frontend text"
+msgstr "Локализация текста"
+
+#: admin.php:324
+msgid "Import/export form"
+msgstr "Импорт / экспорт форм"
+
+#: admin.php:328
+msgid "Select a method for sending letters"
+msgstr "Выберите метод отправки писем"
+
+#: admin.php:340
+msgid "WP-mail"
+msgstr ""
+
+#: admin.php:346
+msgid "SMTP Method"
+msgstr ""
+
+#: admin.php:351 admin.php:352 admin.php:359 admin.php:360 admin.php:1325
+msgid "Sender Name"
+msgstr "Имя отправителя"
+
+#: admin.php:355 admin.php:356 admin.php:363 admin.php:364 admin.php:1326
+msgid "Sender Email"
+msgstr "Почта отправителя"
+
+#: admin.php:367 admin.php:368 admin.php:1327
+msgid "Username"
+msgstr "Логин почты"
+
+#: admin.php:371 admin.php:372 admin.php:1328
+msgid "Password"
+msgstr "Пароль"
+
+#: admin.php:375 admin.php:376 admin.php:1329
+msgid "SMTP Host"
+msgstr "SMTP Хост"
+
+#: admin.php:379 admin.php:380 admin.php:1330
+msgid "Port"
+msgstr "Порт"
+
+#: admin.php:389 admin.php:1323
+msgid "Send Email To"
+msgstr "Почта куда отправлять письма"
+
+#: admin.php:391
+msgid "mail1@example.com"
+msgstr ""
+
+#: admin.php:396 admin.php:1324
+msgid "Email Subject"
+msgstr "Тема письма"
+
+#: admin.php:397
+msgid "Email subject from this form"
+msgstr "Тема письма из этой формы"
+
+#: admin.php:404
+msgid "Email notifications"
+msgstr "Электронные уведомления"
+
+#: admin.php:410
+msgid "You have received a new form submission"
+msgstr "Вы получили новую заявку"
+
+#: admin.php:420
+msgid "Redirection after sending. Leave blank if redirect is not needed"
+msgstr ""
+"Перенаправление после отправки. Оставьте пустым, если перенаправление не "
+"требуется"
+
+#: admin.php:422
+msgid "http://example.com/thank-you"
+msgstr ""
+
+#: admin.php:429
+msgid ""
+"In this section you set the text to be shown after the form is submitted."
+msgstr ""
+"В этом разделе вы устанавливаете текст, который будет отображаться после "
+"отправки формы."
+
+#: admin.php:437
+msgid "Localization frontend text"
+msgstr "Перевод текста форм во фронтенде сайта (по умолчанию текст английский)"
+
+#: admin.php:440 admin.php:486 admin.php:493
+msgid "Your message has been sent"
+msgstr "Ваше сообщение было отправлено"
+
+#: admin.php:440 admin.php:486 admin.php:493
+msgid "Message received"
+msgstr "Сообщение получено"
+
+#: admin.php:443
+msgid "Message is sent"
+msgstr "Сообщение отправлено"
+
+#: admin.php:446
+msgid "Required field"
+msgstr "Обязательное поле"
+
+#: admin.php:446 admin.php:1193
+msgid "Required"
+msgstr "Обязательно"
+
+#: admin.php:449
+msgid "Invalid email address"
+msgstr "Некорректный email"
+
+#: admin.php:449
+msgid "Invalid email"
+msgstr "Некорректный email"
+
+#: admin.php:452 admin.php:1223
+msgid "Only alphabets"
+msgstr "Только буквы"
+
+#: admin.php:455 admin.php:1224
+msgid "Only numbers"
+msgstr "Только цифры"
+
+#: admin.php:458
+msgid "Сaptcha error"
+msgstr "Ошибка в капче"
+
+#: admin.php:461 admin.php:1093 admin.php:1298
+msgid "Upload file"
+msgstr "Загрузка файла"
+
+#: admin.php:464
+msgid "Add file"
+msgstr "Добавить файл"
+
+#: admin.php:467
+msgid "file size exceeded"
+msgstr "превышен размер файла"
+
+#: admin.php:467
+msgid "File size exceeded"
+msgstr "Превышен размер файла"
+
+#: admin.php:470
+msgid "invalid file extension"
+msgstr "недопустимое расширение файла"
+
+#: admin.php:470
+msgid "Invalid file extension"
+msgstr "Недопустимое расширение файла"
+
+#: admin.php:473
+msgid "Next"
+msgstr "Следующий"
+
+#: admin.php:476
+msgid "Invalid phone"
+msgstr "Некорректный номер"
+
+#: admin.php:482
+msgid "Select text to export"
+msgstr "Выделить текст"
+
+#: admin.php:485
+msgid "Export form"
+msgstr "Экспорт формы"
+
+#: admin.php:491
+msgid "Import form"
+msgstr "Импорт формы"
+
+#: admin.php:492
+msgid "Incorrect text of export!"
+msgstr "Некорректный текст экспорта!"
+
+#: admin.php:495
+msgid "Apply import"
+msgstr "Применить импорт"
+
+#: admin.php:497
+msgid "To be able to import the form, you need to save and refresh the page."
+msgstr ""
+"Чтобы иметь возможность импортировать форму, вам нужно сохранить и обновить "
+"страницу."
+
+#: admin.php:498
+msgid ""
+"If during the import or export process you do not copy all the text, this "
+"may lead to errors in the form!"
+msgstr ""
+"Если в процессе импорта или экспорта вы не скопируете весь текст, это может "
+"привести к ошибкам в форме!"
+
+#: admin.php:504
+msgid "Design form"
+msgstr "Дизайн формы"
+
+#: admin.php:505
+msgid "Design popup button"
+msgstr "Дизайн кнопки (popup)"
+
+#: admin.php:513 admin.php:574
+msgid "Padding left"
+msgstr "Отступ слева"
+
+#: admin.php:517 admin.php:578
+msgid "Padding right"
+msgstr "Отступ справа"
+
+#: admin.php:521 admin.php:582
+msgid "Padding top"
+msgstr "Отступ сверху"
+
+#: admin.php:525 admin.php:586
+msgid "Padding bottom"
+msgstr "Отступ снизу"
+
+#: admin.php:531 admin.php:595
+msgid "Custom class"
+msgstr "Добавить ваш класс"
+
+#: admin.php:535 admin.php:599 admin.php:1185
+msgid "Border radius"
+msgstr "Округление"
+
+#: admin.php:541 admin.php:608 admin.php:1187
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: admin.php:545 admin.php:612 admin.php:1186
+msgid "Border width"
+msgstr "Ширина границы"
+
+#: admin.php:551 admin.php:618 admin.php:1179
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: admin.php:555
+msgid "Custom background image"
+msgstr "Изображения для фона"
+
+#: admin.php:567
+msgid "Text in the button"
+msgstr "Текст кнопки"
+
+#: admin.php:623
+msgid "Hover: background, color"
+msgstr "Цвет при наведении: фон и текст"
+
+#: admin.php:628 admin.php:632 admin.php:1280
+msgid "Color"
+msgstr "Цвет"
+
+#: admin.php:642
+msgid "Font color"
+msgstr "Цвет текста"
+
+#: admin.php:646 admin.php:1177 admin.php:1214
+msgid "Font size"
+msgstr "Размер текста"
+
+#: admin.php:657
+msgid "Simple forms"
+msgstr "Простая форма"
+
+#: admin.php:658
+msgid "Сalculator example"
+msgstr "Пример калькулятора"
+
+#: admin.php:661
+msgid "Click on the desired template"
+msgstr "Нажмите на нужный шаблон"
+
+#: admin.php:666 admin.php:711 admin.php:756 admin.php:802 admin.php:830
+#: admin.php:867 admin.php:896 admin.php:1264
+msgid "Name"
+msgstr "Имя"
+
+#: admin.php:668 admin.php:1265
+msgid "Your full name"
+msgstr "Ваше полное имя"
+
+#: admin.php:673 admin.php:718 admin.php:763 admin.php:808 admin.php:837
+#: admin.php:873 admin.php:902 admin.php:1306
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin.php:675 admin.php:1307
+msgid "Your phone number"
+msgstr "Ваш телефон"
+
+#: admin.php:680 admin.php:725 admin.php:770 admin.php:814 admin.php:844
+#: admin.php:879 admin.php:908 admin.php:1266
+msgid "Email"
+msgstr "Email"
+
+#: admin.php:682 admin.php:1267
+msgid "A valid email"
+msgstr "Реальный email"
+
+#: admin.php:687 admin.php:732 admin.php:777 admin.php:851 admin.php:1273
+msgid "Comments"
+msgstr "Комментарий"
+
+#: admin.php:688 admin.php:819 admin.php:884 admin.php:913
+msgid "You comments"
+msgstr "Ваш комментарий"
+
+#: admin.php:698 admin.php:743 admin.php:788 admin.php:1279
+msgid "I agree to the privacy policy"
+msgstr "Я согласен с политикой приватности"
+
+#: admin.php:703 admin.php:748 admin.php:793 admin.php:822 admin.php:855
+#: admin.php:887 admin.php:916 admin.php:1094 admin.php:1272 admin.php:1299
+msgid "Submit"
+msgstr "Отправить"
+
+#: admin.php:863 admin.php:1169
+msgid "Heading"
+msgstr "Заголовок"
+
+#: admin.php:936
+msgid "1. How to add a form to a page"
+msgstr "1. Как добавить форму на страниц"
+
+#: admin.php:937
+msgid "1.1. Add this short code:"
+msgstr "1.1. Добавьте этот шорт код:"
+
+#: admin.php:938
+msgid "1.2. if you need a popup form:"
+msgstr "1.2. Если вам нужна всплывающая форма:"
+
+#: admin.php:939
+msgid "!Saved forms and updated pages so that short codes are generated."
+msgstr ""
+"! Сохраненные формы и обновленные страницы, так что генерируются короткие "
+"коды."
+
+#: admin.php:940
+msgid "1.3. You can use the button in the panel:"
+msgstr "1.3. Вы можете использовать кнопку на панели:"
+
+#: admin.php:942
+msgid "Add to gutenberg"
+msgstr "Добавить в Гутенберге"
+
+#: admin.php:948
+msgid "Add to classic editor"
+msgstr "Добавить в классическом редакторе"
+
+#: admin.php:956
+msgid "2. Custom pop-up button"
+msgstr "2. Произвольная pop-up кнопка"
+
+#: admin.php:957
+msgid "To attach a pop-up form to an custom html element add the class"
+msgstr ""
+"Чтобы прикрепить всплывающую форму к вашему html-элементу, добавьте класс"
+
+#: admin.php:957
+msgid "and the attribute"
+msgstr "и атрибут"
+
+#: admin.php:957
+msgid ", where instead of \"1\" id the desired form."
+msgstr ", где вместо \"1\" id нужной формы."
+
+#: admin.php:959
+msgid ""
+"Sample: <p class=\"quasar-form-button\" data-quasarid=\"1\">Text in the "
+"button</p>"
+msgstr ""
+"Пример: <p class=\"quasar-form-button\" data-quasarid=\"1\">Текст кнопки</p>"
+
+#: admin.php:960
+msgid "! Important: the short code of this form should be located on the page"
+msgstr "! Важно: короткий код этой формы должен быть расположен на странице"
+
+#: admin.php:961
+msgid ""
+"Sample: <p style=\"display: none\">[formaQ id=\"1\" type=\"popup\" align="
+"\"right\" ] </p>"
+msgstr ""
+"Пример: <p style=\"display: none\">[formaQ id=\"1\" type=\"popup\" align="
+"\"right\" ] </p>"
+
+#: admin.php:966
+msgid "3. What to do if notifications are not received in the email?"
+msgstr "3. Что делать, если письма не приходят на почту?"
+
+#: admin.php:967
+msgid "https://quasar-form.com/help/sending-emails/basic-setup/"
+msgstr ""
+"https://quasar-form.com/pomoshh/otpravka-soobshhenij/bazovaya-nastrojka/?"
+"lang=ru"
+
+#: admin.php:968 admin.php:975 admin.php:982
+msgid "Instruction"
+msgstr "Инструкции"
+
+#: admin.php:973
+msgid "4. How to create a calculator?"
+msgstr "4. Как создать калькулятор?"
+
+#: admin.php:974
+msgid "https://quasar-form.com/help/using-calculator-functions/"
+msgstr "https://quasar-form.com/pomoshh/sozdanie-kalkulyatora/?lang=ru"
+
+#: admin.php:980
+msgid "5. JS Event"
+msgstr "5. JS Событие"
+
+#: admin.php:981
+msgid "https://quasar-form.com/js-events/"
+msgstr "https://quasar-form.com/js-sobytiya-2/?lang=ru"
+
+#: admin.php:986
+msgid "Read the documentation on the official website"
+msgstr "Ознакомиться с документацией можно на официальном сайте"
+
+#: admin.php:993
+msgid "Back to menu"
+msgstr "В меню"
+
+#: admin.php:1011 admin.php:1166
+msgid "Setting"
+msgstr "Настройки"
+
+#: admin.php:1012 admin.php:1167
+msgid "Design"
+msgstr "Дизайн"
+
+#: admin.php:1013
+msgid "Logic"
+msgstr "Логика"
+
+#: admin.php:1014
+msgid "Quick start"
+msgstr "Шаблоны"
+
+#: admin.php:1015
+msgid "Help"
+msgstr "Помощь"
+
+#: admin.php:1021 quasar-form-main.php:348
+msgid "Inline"
+msgstr "Обычная"
+
+#: admin.php:1022 quasar-form-main.php:349
+msgid "Popup"
+msgstr "Всплывающая"
+
+#: admin.php:1028 admin.php:1259
+msgid "This name is already in use"
+msgstr "Это имя уже используется"
+
+#: admin.php:1029 admin.php:1258
+msgid "The form name cannot be empty"
+msgstr "Имя формы не может быть пустым"
+
+#: admin.php:1030 admin.php:1260
+msgid "The name can contain up to 20 characters"
+msgstr "Имя может содержать до 20 символов"
+
+#: admin.php:1036 admin.php:1263
+msgid "Width"
+msgstr "Ширина"
+
+#: admin.php:1040
+msgid "Preview form"
+msgstr "Предпросмотр формы"
+
+#: admin.php:1052 admin.php:1101 admin.php:1106 admin.php:1114 admin.php:1385
+msgid "Library disabled"
+msgstr "Библиотека отключена"
+
+#: admin.php:1075
+msgid "none"
+msgstr "скрыть"
+
+#: admin.php:1082
+msgid "Add field"
+msgstr "Добавить поле"
+
+#: admin.php:1084
+msgid "Error saved"
+msgstr "Ошибка при сохранении"
+
+#: admin.php:1085
+msgid "One line input"
+msgstr "Текстовое поле"
+
+#: admin.php:1086
+msgid "Phone input"
+msgstr "Поле для телефона"
+
+#: admin.php:1087
+msgid "Email input"
+msgstr "Поле для email"
+
+#: admin.php:1088
+msgid "Textarea"
+msgstr "Большое текстовое поле"
+
+#: admin.php:1089
+msgid "Checkbox"
+msgstr "Переключатели"
+
+#: admin.php:1090 admin.php:1108 admin.php:1109 admin.php:1110 admin.php:1122
+msgid "Pro"
+msgstr "Про"
+
+#: admin.php:1090
+msgid "Checkbox img"
+msgstr "Переключатели картинки"
+
+#: admin.php:1091 admin.php:1300
+msgid "Privacy policy"
+msgstr "Политика приватности"
+
+#: admin.php:1092 admin.php:1274
+msgid "Custom text/html"
+msgstr "Произвольный текст / html"
+
+#: admin.php:1096
+msgid "More fields"
+msgstr "Еще поля"
+
+#: admin.php:1100
+msgid "Slider"
+msgstr "Ползунок"
+
+#: admin.php:1103
+msgid "Dropdown"
+msgstr "Выпадающий список"
+
+#: admin.php:1105
+msgid "Datepicker"
+msgstr "Выбор даты"
+
+#: admin.php:1108 admin.php:1301
+msgid "Quantity"
+msgstr "Количество"
+
+#: admin.php:1109
+msgid "Progress of quiz"
+msgstr "Прогресс квиза"
+
+#: admin.php:1110
+msgid "Tooltip"
+msgstr "Подсказка"
+
+#: admin.php:1111 admin.php:1302
+msgid "Captcha"
+msgstr "Капча"
+
+#: admin.php:1113
+msgid "Total calculation"
+msgstr "Калькуляция"
+
+#: admin.php:1120
+msgid "Other"
+msgstr "Табы и секции"
+
+#: admin.php:1121
+msgid "Add construction"
+msgstr "Добавить секции"
+
+#: admin.php:1122
+msgid "Add tab"
+msgstr "Добавить таб"
+
+#: admin.php:1123
+msgid "Save form"
+msgstr "Сохранить форму"
+
+#: admin.php:1138
+msgid "1) Each new line creates a checkbox."
+msgstr "1) Каждая новая строка создает новый чекбокс."
+
+#: admin.php:1139
+msgid ""
+"2) Can use html, styles and classes on each line (example: <span style="
+"\"color: #000\">Red </span>). Do not use this feature if you are using this "
+"checkbox in logic."
+msgstr ""
+"2) Можно использовать html, стили и классы в каждой строке (пример: <span "
+"style = \"color: # 000\"> Красный </span>). Не используйте эту функцию, если "
+"вы используете этот чекбокс в логике."
+
+#: admin.php:1140
+msgid ""
+"3) If you want to use checkboxes for the calculator, set the sum of each "
+"checkbox as follows. Example:"
+msgstr ""
+"3) Если вы хотите использовать чекбокс для калькулятора, установите сумму "
+"для каждого флажка следующим образом. Пример:"
+
+#: admin.php:1141 admin.php:1151
+msgid "100==Red"
+msgstr "100==Красный"
+
+#: admin.php:1142 admin.php:1152
+msgid "300==Blue"
+msgstr "300==Голубой"
+
+#: admin.php:1146
+msgid ""
+"The field will be hidden on page load. Why is this needed? For dynamic "
+"forms, you can use logic to show or hide fields."
+msgstr ""
+"Поле будет скрыто при загрузке страницы. Зачем это нужно? Для динамических "
+"форм, вы можете использовать логику для отображения или скрытия полей."
+
+#: admin.php:1149
+msgid ""
+"1) A string that starts with \"! =\" is considered a placeholder and is "
+"selected by default. Until another value is selected, the field is "
+"considered blank."
+msgstr ""
+"1) Строка, начинающаяся с \"! =\", Считается заполнителем и выбирается по "
+"умолчанию. Пока не выбрано другое значение, поле считается незаполненным."
+
+#: admin.php:1150
+msgid ""
+"2) If you want to use this field for the calculator, set the sum of each "
+"option as follows. Example:"
+msgstr ""
+"2) Если вы хотите использовать это поле для калькулятора, установите сумму "
+"каждой опции следующим образом. Пример:"
+
+#: admin.php:1156
+msgid ""
+"1) Here you enter the formula for your calculator. In order for a field to "
+"participate in the calculation, you need to specify its id in curly braces."
+msgstr ""
+"1) Здесь указываете формулу для расчета вашего калькулятора. Для того, чтобы "
+"поле участвовало в расчете, нужно указать его id в фигурных скобках."
+
+#: admin.php:1157
+msgid "2) Mathematical operators available: + - * / ( )"
+msgstr "2) Из доступных математических операторов: + - * / ()"
+
+#: admin.php:1158
+msgid "3) Decimal values are written with a dot, for example: 10.45"
+msgstr "3) Десятичные числа пишутся через точку, например: 10.45"
+
+#: admin.php:1159
+msgid "4) The screenshot shows the location of the id of each field:"
+msgstr "4) На скриншоте показано расположение идентификатора каждого поля:"
+
+#: admin.php:1160
+msgid "5) In the formula, you can use the ID of other total fields"
+msgstr "5) В формуле вы можете использовать ID других полей с итогом"
+
+#: admin.php:1163
+msgid "Disable shadow"
+msgstr "Отключить тень"
+
+#: admin.php:1165
+msgid "Stretch background image"
+msgstr "Растянуть фоновое изображение"
+
+#: admin.php:1170
+msgid "Heading size"
+msgstr "Размер заголовка"
+
+#: admin.php:1171 admin.php:1220
+msgid "Heading color"
+msgstr "Цвет заголовка"
+
+#: admin.php:1172
+msgid "Heading indent"
+msgstr "Отступ от заголовка"
+
+#: admin.php:1173
+msgid "Heading weight"
+msgstr "Толщина заголовка"
+
+#: admin.php:1174
+msgid "Field width"
+msgstr "Ширина поля"
+
+#: admin.php:1175
+msgid "Field style"
+msgstr "Стиль поля"
+
+#: admin.php:1176
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: admin.php:1178
+msgid "Placeholder color"
+msgstr "Цвет заполнителя"
+
+#: admin.php:1180
+msgid "Background color 1"
+msgstr "Цвет фона 1"
+
+#: admin.php:1181
+msgid "Background color 2"
+msgstr "Цвет фона 2"
+
+#: admin.php:1182
+msgid "Color 1"
+msgstr "Цвет 1"
+
+#: admin.php:1183
+msgid "icons"
+msgstr "иконки"
+
+#: admin.php:1184
+msgid "Border color while in focus"
+msgstr "Цвет границы при фокусе"
+
+#: admin.php:1188
+msgid "Height"
+msgstr "Высота"
+
+#: admin.php:1189 admin.php:1230
+msgid "More setting"
+msgstr "Больше настроек"
+
+#: admin.php:1190
+msgid "Validation"
+msgstr "Валидность"
+
+#: admin.php:1191 admin.php:1235
+msgid "Padding: left right top bottom"
+msgstr "Внутр. отступ: лево, право, верх, низ"
+
+#: admin.php:1192
+msgid "Icon color"
+msgstr "Цвет иконки"
+
+#: admin.php:1194
+msgid "Hide field on page"
+msgstr "Изначально скрыть"
+
+#: admin.php:1195
+msgid "Custom CSS class for container"
+msgstr "Добавить ваш класс контейнеру"
+
+#: admin.php:1196
+msgid "Custom CSS class for input"
+msgstr "Добавить ваш класс инпуту"
+
+#: admin.php:1197
+msgid "Custom CSS class for textarea"
+msgstr "Добавить ваш класс текстарии"
+
+#: admin.php:1198
+msgid "Custom CSS class for button"
+msgstr "Добавить ваш класс кнопке"
+
+#: admin.php:1199
+msgid "duplicate"
+msgstr "дублировать"
+
+#: admin.php:1200
+msgid "Min value"
+msgstr "Мин знаечние"
+
+#: admin.php:1201
+msgid "Max value"
+msgstr "Макс значение"
+
+#: admin.php:1202
+msgid "Step"
+msgstr "Шаг"
+
+#: admin.php:1203
+msgid "default value"
+msgstr "по умолчанию"
+
+#: admin.php:1204
+msgid "Range color 1"
+msgstr "Цвет ползунка 1"
+
+#: admin.php:1205
+msgid "Range color 2"
+msgstr "Цвет ползунка 2"
+
+#: admin.php:1206
+msgid "Color of the toggle"
+msgstr "Цвет переключателя"
+
+#: admin.php:1207
+msgid "Number color"
+msgstr "Цвет цифр"
+
+#: admin.php:1208
+msgid "Tab style"
+msgstr "Стиль таба"
+
+#: admin.php:1209
+msgid "Scale"
+msgstr "Шкала"
+
+#: admin.php:1210
+msgid "File limit"
+msgstr "Лимит файлов"
+
+#: admin.php:1211
+msgid "Allowed Extensions"
+msgstr "Допустимые расширения"
+
+#: admin.php:1212
+msgid "Max size of 1 file in mb"
+msgstr "Макс размер 1 файла в Мб"
+
+#: admin.php:1213 quasar-form-main.php:350
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: admin.php:1215
+msgid "Color text"
+msgstr "Цвет текста"
+
+#: admin.php:1216
+msgid "Field align"
+msgstr "Выравнивание поля"
+
+#: admin.php:1217
+msgid "Text align"
+msgstr "Выравнивание текста"
+
+#: admin.php:1218
+msgid "Full width"
+msgstr "Полная ширина"
+
+#: admin.php:1219
+msgid "Background head"
+msgstr "Фон"
+
+#: admin.php:1221
+msgid "Option color"
+msgstr "Цвет опций"
+
+#: admin.php:1222
+msgid "None"
+msgstr "Скрыть"
+
+#: admin.php:1225
+msgid "Select"
+msgstr "Выбрать"
+
+#: admin.php:1226
+msgid "Hover/active background"
+msgstr "Фон при наведении и активе"
+
+#: admin.php:1227
+msgid "Select color"
+msgstr "Выбрать цвет"
+
+#: admin.php:1228
+msgid "Hover background"
+msgstr "Фон при наведении"
+
+#: admin.php:1229
+msgid "Hover color"
+msgstr "Цвет при наведении"
+
+#: admin.php:1231
+msgid "Сheckboxs text/html"
+msgstr "Переключатели текст/html"
+
+#: admin.php:1232
+#, fuzzy
+#| msgid "Links to images inside checkboxes"
+msgid "Links to checkbox images"
+msgstr "Ссылки на картинки переключателей"
+
+#: admin.php:1233
+msgid "Сheckboxs text. Can use html."
+msgstr "Текст переключателей. Поддерживает html."
+
+#: admin.php:1234
+msgid "Links to images inside checkboxes"
+msgstr "Ссылки на картинки переключателей"
+
+#: admin.php:1236 admin.php:1238
+msgid "Margin: top, text, check"
+msgstr "Отступ: верх, текст, переключатели"
+
+#: admin.php:1237
+msgid "Margin: text-left, text-top, top, bottom, right, left"
+msgstr "Отступ: текст слева, текст сверху, верх, низ, право, лево"
+
+#: admin.php:1239
+msgid "Margin: left, right, top, bottom"
+msgstr "Отступ: лево, право, верх, низ"
+
+#: admin.php:1240
+msgid "Radio-buttons"
+msgstr "Радио-кнопки"
+
+#: admin.php:1241
+msgid "Align"
+msgstr "Выравнивание"
+
+#: admin.php:1242
+msgid "Horizontlal"
+msgstr "Горизонтальное"
+
+#: admin.php:1243
+msgid "Vertical"
+msgstr "Вертикальное"
+
+#: admin.php:1244 admin.php:1297
+msgid "Custom text"
+msgstr "Произвольный текст"
+
+#: admin.php:1245
+msgid "Your formula to calculate."
+msgstr "Ваша формула калькулятора."
+
+#: admin.php:1246
+msgid "Custom text, [itog] - displays the calculation digit."
+msgstr "Ваш текст, [itog] - отображает цифру расчета."
+
+#: admin.php:1247
+msgid "! incorrect filling of this field can cause errors."
+msgstr "! неправильное заполнение этого поля может привести к ошибкам."
+
+#: admin.php:1248
+msgid "Example"
+msgstr "Пример"
+
+#: admin.php:1249
+msgid "Optiopns"
+msgstr "Опции"
+
+#: admin.php:1250
+msgid "Checkbox color: border, check"
+msgstr "Цвет: граница, флажек"
+
+#: admin.php:1251
+msgid "Checkbox size: border, check"
+msgstr "Размер: граница, флажек"
+
+#: admin.php:1252
+msgid "style-1"
+msgstr "стиль-1"
+
+#: admin.php:1253
+msgid "style-2"
+msgstr "стиль-2"
+
+#: admin.php:1254
+msgid "Pro style-3"
+msgstr "Про стиль-3"
+
+#: admin.php:1255
+msgid "Pro style-4"
+msgstr "Про стиль-4"
+
+#: admin.php:1256
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin.php:1257
+msgid "Your form"
+msgstr "Ваша форма"
+
+#: admin.php:1261
+msgid "Single box width"
+msgstr "Ширина одного флажка"
+
+#: admin.php:1262
+msgid "More details"
+msgstr "Больше деталей"
+
+#: admin.php:1268
+msgid "Select item"
+msgstr "Выбрать предмет"
+
+#: admin.php:1269
+msgid "Red"
+msgstr "Красный"
+
+#: admin.php:1270
+msgid "Blue"
+msgstr "Голубой"
+
+#: admin.php:1271
+msgid "Item"
+msgstr "Предмет"
+
+#: admin.php:1275
+msgid "Date"
+msgstr "Дата"
+
+#: admin.php:1276
+msgid "Choose a date"
+msgstr "Выберите дату"
+
+#: admin.php:1277
+msgid "Select An Option"
+msgstr "Выберите опцию"
+
+#: admin.php:1278
+msgid "Total"
+msgstr "Итого"
+
+#: admin.php:1281
+msgid "Show field"
+msgstr "Показать поле"
+
+#: admin.php:1282
+msgid "Hide field"
+msgstr "Скрыть поле"
+
+#: admin.php:1283
+msgid "Change html in custom text"
+msgstr "Изменение html в произвольном тексте"
+
+#: admin.php:1284
+msgid "Select action"
+msgstr "Выбериет действие"
+
+#: admin.php:1285
+msgid "And"
+msgstr "И"
+
+#: admin.php:1286
+msgid "Or"
+msgstr "Или"
+
+#: admin.php:1287
+msgid "Trigger"
+msgstr "(Триггер)"
+
+#: admin.php:1288
+msgid "Conditions"
+msgstr "Условия"
+
+#: admin.php:1289
+msgid "is equal to"
+msgstr "равно"
+
+#: admin.php:1290
+msgid "is not equal to"
+msgstr "не равно"
+
+#: admin.php:1291
+msgid "is greater than"
+msgstr "больше чем"
+
+#: admin.php:1292
+msgid "is less than"
+msgstr "меньше чем"
+
+#: admin.php:1293
+msgid "filled"
+msgstr "заполнено"
+
+#: admin.php:1294
+msgid "not filled"
+msgstr "не заполнено"
+
+#: admin.php:1295
+msgid "Value"
+msgstr "Значение"
+
+#: admin.php:1296
+msgid "Select a field"
+msgstr "Выберите поле"
+
+#: admin.php:1303
+msgid "Set value of field"
+msgstr "Установить значение поля"
+
+#: admin.php:1304
+msgid "Recalculate calculator total"
+msgstr "Пересчет итога калькулятора"
+
+#: admin.php:1305
+msgid "Example of releasing discount (20%):"
+msgstr "Пример реализации скидки 20% :"
+
+#: admin.php:1308
+msgid "!All fields created earlier will be overwritten"
+msgstr "Все поля, созданные ранее, будут перезаписаны"
+
+#: admin.php:1310
+msgid "Phone mask"
+msgstr "Маска для номера"
+
+#: admin.php:1311
+msgid "0(999) 999-9999"
+msgstr "+7(999) 999-9999"
+
+#: admin.php:1312
+msgid "Use a mask"
+msgstr "Включить маску"
+
+#: admin.php:1313
+msgid "Styles 3 and 4 are available only in pro version."
+msgstr "Стиль 3 и 4 доступен только в Про версии."
+
+#: admin.php:1314
+msgid "Rounding of total"
+msgstr "Округление итога"
+
+#: admin.php:1315
+msgid "Standard rounding"
+msgstr "Стандартное округление"
+
+#: admin.php:1316
+msgid "Round up"
+msgstr "Округление вверх"
+
+#: admin.php:1317
+msgid "Round down"
+msgstr "Округление вниз"
+
+#: admin.php:1318
+msgid "No rounding, two decimal places"
+msgstr "Без округления, два знака \"после запятой\""
+
+#: admin.php:1319
+msgid "No rounding, one decimal places"
+msgstr "Без округления, один знак \"после запятой\""
+
+#: admin.php:1320
+msgid "No rounding"
+msgstr "Без округления"
+
+#: admin.php:1331
+msgid "To receive letters from the form fill in the fields:"
+msgstr "Чтобы получать письма с формы заполните поля:"
+
+#: admin.php:1332
+msgid ""
+"if all the settings fields are filled in correctly, you will receive letters "
+"after submitting the form."
+msgstr ""
+"Если все поля настроек заполнены правильно, вы будите получать письма после "
+"отправки формы."
+
+#: admin.php:1333
+msgid "The \"Send Email To\" field is filled in incorrectly"
+msgstr "Поле \"Почта куда отправлять письма\" заполнено неправильно"
+
+#: admin.php:1334
+msgid "The \"Username\" field is filled in incorrectly"
+msgstr "Поле \"Логин почты\" заполнено неправильно"
+
+#: admin.php:1335
+msgid "The \"Sender Email\" field is filled in incorrectly"
+msgstr "Поле \"Почта отправителя\" заполнено неправильно"
+
+#: admin.php:1336
+msgid "The \"Port\" field is filled in incorrectly"
+msgstr "Поле \"Порт\" заполнено неправильно"
+
+#: admin.php:1337
+msgid ""
+"Please note that all forms created through the Quasar form plugin are "
+"already protected from spam. This way you can do without captcha."
+msgstr ""
+"Все формы, созданные с помощью плагина Quasar form, уже защищены от спама. "
+"Таким образом, вы можете обойтись без капчи."
+
+#: admin.php:1340
+msgid "Screenshot of working version of WP-mail settings:"
+msgstr "Скриншот рабочей версии настроек WP-mail:"
+
+#: admin.php:1341
+msgid "help-mail-1.png"
+msgstr "help-mail-1ru.png"
+
+#: admin.php:1342 admin.php:1459
+msgid "It is better to use the following address as the sender mail: noreply@"
+msgstr ""
+"В качестве адреса отправителя лучше использовать следующий адрес: noreply@"
+
+#: admin.php:1343
+msgid "If letters do not arrive, check your spam folder."
+msgstr "Если письма не приходят, проверьте папку со спамом."
+
+#: admin.php:1347
+msgid "Screenshot of working version of SMTP-mail settings:"
+msgstr "Скриншот рабочей версии настроек SMTP-почты:"
+
+#: admin.php:1348
+msgid "help-mail-2.png"
+msgstr "help-mail-2ru.png"
+
+#: admin.php:1349
+msgid ""
+"Depending on the host of your mail, you may need additional steps to set up "
+"your mail."
+msgstr ""
+"В зависимости от хостера вашего email, вам могут потребоваться "
+"дополнительные шаги для настройки вашей почты."
+
+#: admin.php:1353
+msgid "\"9\" - Represents a numeric character (0-9)"
+msgstr ""
+"Символ \"9\" - представляет собой числовой диапазон для ввода цифр от 0 до 9"
+
+#: admin.php:1354
+msgid "Examples of number masks:"
+msgstr "Примеры масок номеров:"
+
+#: admin.php:1356
+msgid "England: +44 9999 9999"
+msgstr "Англия: +44 9999 9999"
+
+#: admin.php:1357
+msgid "France: +33 9 99 99 99 99"
+msgstr "Франция: +33 9 99 99 99 99"
+
+#: admin.php:1358
+msgid "Russia: +7(999) 999-9999"
+msgstr "Россия: +7(999) 999-9999"
+
+#: admin.php:1362
+msgid ""
+"If your theme already has styles for a simple form and you want to use them, "
+"then enable this option."
+msgstr ""
+"Если в вашей теме уже есть стили для простой формы и вы хотите их "
+"использовать, включите эту опцию."
+
+#: admin.php:1363
+msgid "This option disables plugin styles for the following fields:"
+msgstr "Эта опция отключает стили плагина для следующих полей:"
+
+#: admin.php:1364 admin.php:1400
+msgid "1) Input (One line input, Phone input, Email input, Datepicker)"
+msgstr ""
+"1) Input (Текстовое поле, поле для телефона, поле для email, выбор даты)"
+
+#: admin.php:1365 admin.php:1401
+msgid "2) Textarea"
+msgstr "2) Textarea (Большое текстовое поле)"
+
+#: admin.php:1366 admin.php:1402
+msgid "3) Select (Dropdown)"
+msgstr "3) Select (Выпадающий список)"
+
+#: admin.php:1367
+msgid "4) Submit"
+msgstr "4) Отправить"
+
+#: admin.php:1370
+msgid "Styles of some of the fields are disabled in the settings"
+msgstr "Стили некоторых полей отключены в настройках"
+
+#: admin.php:1371
+msgid "Disable field design"
+msgstr "Отключить дизайн полей"
+
+#: admin.php:1372
+msgid "Сopy"
+msgstr "Копировать"
+
+#: admin.php:1373
+msgid "Paste"
+msgstr "Вставить"
+
+#: admin.php:1375
+msgid "Copy field styles"
+msgstr "Копировать стиль поля"
+
+#: admin.php:1376
+msgid "Fill the field with content outside the form"
+msgstr "Заполнение поле содержимым вне формы"
+
+#: admin.php:1377
+msgid "Disabled"
+msgstr "Отключено"
+
+#: admin.php:1378
+msgid "Fill after page load"
+msgstr "Заполнить после загрузки страницы"
+
+#: admin.php:1379
+msgid "Fill when sending the form"
+msgstr "Заполнить при отправке формы"
+
+#: admin.php:1380
+msgid "Autocomplete status"
+msgstr "Статус автозаполнения"
+
+#: admin.php:1381
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin.php:1382
+msgid "Lang"
+msgstr "Язык"
+
+#: admin.php:1383
+msgid "English"
+msgstr "Английский"
+
+#: admin.php:1384
+msgid "Russian"
+msgstr "Русский"
+
+#: admin.php:1386
+msgid "Activated by default"
+msgstr "Активировать изначально"
+
+#: admin.php:1387
+msgid "yes"
+msgstr "да"
+
+#: admin.php:1388
+msgid "not"
+msgstr "нет"
+
+#: admin.php:1389
+msgid "Full size"
+msgstr "Полный размер"
+
+#: admin.php:1390
+msgid "Disable design"
+msgstr "Отключить дизайн"
+
+#: admin.php:1391
+msgid "Note the calculator works only in the front-end of the site"
+msgstr "! Обратите внимание, калькуляция работает только во фронтенте сайта"
+
+#: admin.php:1392
+msgid "Error"
+msgstr "Ошибка"
+
+#: admin.php:1393
+msgid "Hide until all fields are filled"
+msgstr "Скрывать, пока не будут заполнены все поля"
+
+#: admin.php:1397
+msgid "This option allows you to copy the styles of some fields."
+msgstr "Эта опция позволяет копировать стили некоторых полей."
+
+#: admin.php:1398
+msgid ""
+"For example, in order to not re-style similar fields like \"Phone input\" and"
+"\" Email input \", you just need to copy the styles of one field and apply "
+"them on the other."
+msgstr ""
+"Например, чтобы не стилизовать заново похожие поля, такие как: «Поле для "
+"телефона» и «Поле для email», вы можете скопировать стили одного поля и "
+"применить к другому."
+
+#: admin.php:1399
+msgid "Fields that support the transfer of styles:"
+msgstr "Поля, поддерживающие перенос стилей:"
+
+#: admin.php:1407
+msgid "This option allows you to write data outside of the form into the form."
+msgstr "Эта опция позволяет вам записывать данные вне формы в форму."
+
+#: admin.php:1408
+msgid "What is it for?"
+msgstr "Для чего это?"
+
+#: admin.php:1409
+msgid ""
+"For example, your form is located in the product card, you can write down "
+"the name of the product, price and other parameters in the form fields. You "
+"just need to specify the class of the element with the content you want."
+msgstr ""
+"Например, ваша форма находится в карточке товара, вы можете записать "
+"название товара, цену и другие параметры в поля формы, чтобы получить это в "
+"письме. Вам просто нужно указать класс элемента с нужным вам содержимым."
+
+#: admin.php:1410
+msgid ""
+"Fields that you fill in this way can be hidden for display in the front end "
+"so they will not distract users."
+msgstr ""
+"Поля, которые вы заполняете таким образом, можно скрыть для отображения во "
+"внешнем интерфейсе, чтобы не отвлекать пользователей."
+
+#: admin.php:1411
+msgid "There are two options for writing the class"
+msgstr "Есть два варианта написания класса"
+
+#: admin.php:1412
+msgid ""
+"1) write one class. In this case, the search will be carried out throughout "
+"the whole page."
+msgstr ""
+"1) напишите один класс. В этом случае поиск будет вестись по всей странице."
+
+#: admin.php:1413 admin.php:1424
+msgid "help3eng"
+msgstr "help3ru"
+
+#: admin.php:1414
+msgid ""
+"2) write two classes separated by comma. In this case, the search will be "
+"conducted from the form or form button along the DOM upwards until the first "
+"class is found (similar to the .closest () method). When the first class is "
+"found, it is going to search inside for the element of the second class, "
+"from which the content will be obtained. The second method is needed in "
+"cases where many elements have the same class."
+msgstr ""
+"2) напишите два класса через запятую. В этом случае поиск будет вестись от "
+"формы или кнопки формы вверх по DOM дереву, пока не будет найден первый "
+"класс (аналогично методу .closest ()). Когда первый класс будет найден, "
+"внутри него будет искаться элемент со вторым классом, из которого будет "
+"получен контент. Второй способ нужен в случаях, когда многие элементы имеют "
+"один и тот же класс."
+
+#: admin.php:1415
+msgid "help4eng"
+msgstr "help4ru"
+
+#: admin.php:1416
+msgid ""
+"The variant with 2 classes will work correctly only if the option \"Fill out "
+"when submitting the form\" is selected in the field \"Autocomplete status\"."
+msgstr ""
+"Вариант с 2 классами будет работать корректно только в том случае, если в "
+"поле «Статус автозаполнения» выбрана опция «Заполнять при отправке формы»."
+
+#: admin.php:1420
+msgid ""
+"This option allows you to enable automatic filling of fields with data "
+"outside the form."
+msgstr ""
+"Эта опция позволяет включить автоматическое заполнение полей данными вне "
+"формы."
+
+#: admin.php:1421
+msgid ""
+"\"Fill after page load\" - this field will be filled after page load with "
+"data that is contained in the element, the class of which you specified."
+msgstr ""
+"«Заполнить после загрузки страницы» - это поле будет заполнено после "
+"загрузки страницы данными, содержащимися в элементе, класс которого вы "
+"указали."
+
+#: admin.php:1422
+msgid ""
+"\"Fill in when submitting the form\" - this field will be filled in when "
+"submitting the form, with the data contained in the element, the class of "
+"which you specified. Only this mode supports two classes."
+msgstr ""
+"«Заполнять при отправке формы» - это поле будет заполнено при отправке формы "
+"данными, содержащимися в элементе, класс которого вы указали. Только этот "
+"режим поддерживает два класса."
+
+#: admin.php:1423
+msgid ""
+"Classes must be set in the field \"Fill the field with content outside the "
+"form\"."
+msgstr "Классы необходимо задать в поле «Заполнить поле содержимым вне формы»."
+
+#: admin.php:1425
+msgid ""
+"If this option is enabled, then validation and mandatory filling of this "
+"field are ignored."
+msgstr ""
+"Если эта опция включена, то проверки на валидацию и на обязательное "
+"заполнение поля игнорируются."
+
+#: admin.php:1429
+msgid "This field is the text of your notice that you will receive by email."
+msgstr ""
+"Это поле представляет собой текст вашего уведомления, которое вы получите по "
+"электронной почте."
+
+#: admin.php:1430
+msgid "Shortcodes you can use:"
+msgstr "Шорткоды, которые вы можете использовать:"
+
+#: admin.php:1431
+msgid "1) [content form] - content of all form fields."
+msgstr "1) [content form] - содержание всех полей формы."
+
+#: admin.php:1432
+msgid "2) [URL] - link to the page from which the form was submitted."
+msgstr "2) [URL] - ссылка на страницу, с которой была отправлена форма."
+
+#: admin.php:1433
+msgid ""
+"3) [page title] - the title of the page or post from which the form was "
+"submitted."
+msgstr ""
+"3) [page title] - заголовок страницы или записи, с которой была отправлена "
+"форма."
+
+#: admin.php:1434
+msgid "4) [Time] - form submission time."
+msgstr "4) [Time] - время и дата отправки формы."
+
+#: admin.php:1435
+msgid ""
+"5) id of any field can be wrapped in brackets to get its content, for "
+"example: [Field73q451]"
+msgstr ""
+"5) id любого поля можно обернуть в скобки, чтобы получить его содержимое, "
+"например: [Field73q451]"
+
+#: admin.php:1440
+msgid ""
+"In this field you enter the mail to which letters from the form will come."
+msgstr ""
+"В этом поле вы вводите почту, на которую будут приходить письма из формы."
+
+#: admin.php:1441
+msgid ""
+"You can enter multiple email addresses separated by commas without spaces."
+msgstr ""
+"Вы можете ввести несколько адресов электронной почты через запятую без "
+"пробелов."
+
+#: admin.php:1442
+msgid "Example: youmail1@gmail.com,youmail2@gmail.com"
+msgstr "Пример: youmail1@gmail.com,youmail2@gmail.com"
+
+#: admin.php:1446
+msgid ""
+"If set by default, the language of the datepicker will be taken from the "
+"localization of your site."
+msgstr ""
+"Если установлено по умолчанию, язык датапикера будет взят из локализации "
+"вашего сайта."
+
+#: admin.php:1449
+msgid ""
+"The shortcode [default value] displays the standard text when the form is "
+"submitted. The localization of this text is in the \"Frontend text\" "
+"settings section."
+msgstr ""
+"Шорткод [default value] выводит стандартный текст при отправке формы. "
+"Локализация этого текста находится в разделе настроек «Локализация текста»."
+
+#: admin.php:1450
+msgid "If you only want to display your text you can erase the shortcode."
+msgstr ""
+"Если вы хотите отображать только свой текст, вы можете стереть шорткод."
+
+#: admin.php:1451
+msgid "help-after-text-en"
+msgstr "help-after-text-ru"
+
+#: admin.php:1455
+msgid "! The fa fa icon library is disabled, the first style will not work."
+msgstr "! Библиотека значков fa fa отключена, первый стиль не будет работать."
+
+#: admin.php:1463
+msgid ""
+"If your theme already has styles for the submit button and you want to use "
+"them, you can disable the plugin styles for the button."
+msgstr ""
+"Если в вашей теме уже есть стили для кнопки \"Отправить\" и вы хотите их "
+"использовать, вы можете отключить стили плагина для кнопки."
+
+#: admin.php:1467
+msgid ""
+"The 'total' field will be hidden until all the fields from the formula are "
+"filled."
+msgstr ""
+"Поле «Итого» будет скрыто до тех пор, пока не будут заполнены все поля "
+"указанные в формуле."
+
+#: include/frontend-form.php:864
+msgid "Please correct the errors and try again"
+msgstr "Пожалуйста, исправьте ошибки и повторите попытку"
+
+#: quasar-form-main.php:319
+msgid "Select Color"
+msgstr "Выберите цвет"
+
+#: quasar-form-main.php:320
+msgid "Clear"
+msgstr "Очистить"
+
+#: quasar-form-main.php:330
+msgid "Add form"
+msgstr "Добавить форму"
+
+#: quasar-form-main.php:345
+msgid "Left"
+msgstr "Лево"
+
+#: quasar-form-main.php:346
+msgid "Right"
+msgstr "Право"
+
+#: quasar-form-main.php:347
+msgid "Center"
+msgstr "Центр"
+
+#: quasar-form-main.php:352
+msgid "Align of form"
+msgstr "Выравнивание формы"
+
+#: quasar-form-main.php:353
+msgid "Type of form"
+msgstr "Тип формы"
+
+#: quasar-form-main.php:874
+msgid "Could not attach file"
+msgstr "Не удалось прикрепить файл"
+
+#: quasar-form-main.php:886
+msgid "Message was not sent. Your email settings are incorrect"
+msgstr "Сообщение не было отправлено. Ваши настройки электронной почты неверны"
+
+#: quasar-form-main.php:888
+msgid "Message was not sent. Cause of error"
+msgstr "Сообщение не было отправлено. Причины ошибок"
+
+#~ msgid "Border focus color"
+#~ msgstr "Цвет границы при фокусе"
+
+#~ msgid "Toggle background"
+#~ msgstr "Фон переключателя"
+
+#~ msgid "CSS custom class"
+#~ msgstr "Ваш CSS класс"
+
+#~ msgid "Inlline"
+#~ msgstr "Обычная"
+
+#~ msgid "4) Tab"
+#~ msgstr "4) Таб"
+
+#~ msgid "Shadow disallow"
+#~ msgstr "Отключить тень"
+
+#~ msgid "Your full nameYour phone number"
+#~ msgstr "Ваш телефон"
+
+#~ msgid " Padding: left right top bottom"
+#~ msgstr "Отступ: лево, право, верх, низ"
+
+#~ msgid "Button font size"
+#~ msgstr "Размер шрифта в кнопке"
+
+#~ msgid "Add logic"
+#~ msgstr "Добавить логику"
+
+#~ msgid "A new message"
+#~ msgstr "Новое сообщение"
+
+#~ msgid "The value of all fields is used to calculate"
+#~ msgstr "Значение всех полей используется для расчета"
+
+#~ msgid "Number of items"
+#~ msgstr "Количество предметов"
+
+#~ msgid "item-1"
+#~ msgstr "предмет-1"
+
+#~ msgid "item-2"
+#~ msgstr "предмет-2"
+
+#~ msgid "item-3"
+#~ msgstr "предмет-3"
+
+#~ msgid "item-4"
+#~ msgstr "предмет-4"
+
+#~ msgid "item-5"
+#~ msgstr "предмет-5"
+
+#~ msgid "item-6"
+#~ msgstr "предмет-6"
+
+#, fuzzy
+#~| msgid "Select item"
+#~ msgid "Selecet item"
+#~ msgstr "Выбрать предмет"
+
+#~ msgid "Total: 0 $."
+#~ msgstr "Итого 0 р."
+
+#~ msgid ""
+#~ "The logic consists of two sections of conditions and actions. Actions are "
+#~ "performed when the condition is true."
+#~ msgstr ""
+#~ "Логика состоит из двух разделов условий и действий. Действия выполняются, "
+#~ "когда условие истинно."
+
+#~ msgid "At the moment the logic supports 5 actions:"
+#~ msgstr "На данный момент логика поддерживает 5 действий:"
+
+#~ msgid ""
+#~ "1) Show field - shows the field if it was hidden. Has the opposite "
+#~ "effect. If the condition is no longer met, the field is automatically "
+#~ "hidden again."
+#~ msgstr ""
+#~ "1) Показать поле - показывает поле, если оно было скрыто. Имеет "
+#~ "противоположный эффект. Если условие больше не выполняется, поле "
+#~ "автоматически скрывается снова."
+
+#~ msgid ""
+#~ "2) Hide field - hides the field. Has the opposite effect. If the "
+#~ "condition is no longer met, the field is automatically shown again."
+#~ msgstr ""
+#~ "2) Скрыть поле - скрывает поле. Имеет противоположный эффект. Если "
+#~ "условие больше не выполняется, поле автоматически отображается снова."
+
+#~ msgid ""
+#~ "3) Change html in custom text - changes the text or html in the \"Custom "
+#~ "text / html\" field. Works only with this type of fields. Does not have "
+#~ "the opposite effect. If the condition is no longer met, the original "
+#~ "content of the field is not restored."
+#~ msgstr ""
+#~ "3) Изменить html в пользовательском тексте - изменяет текст или html в "
+#~ "поле \"Пользовательский текст / html\". Работает только с этим типом "
+#~ "полей. Не имеет обратного эффекта. Если условие больше не выполняется, "
+#~ "исходное содержимое поля не восстанавливается."
+
+#~ msgid ""
+#~ "4) Set value of field - sets the value for the field. Does not have the "
+#~ "opposite effect. If the condition is no longer met, the original field "
+#~ "value is not restored. "
+#~ msgstr ""
+#~ "4) Установить значение поля - устанавливает значение для поля. Не имеет "
+#~ "обратного эффекта. Если условие больше не выполняется, исходное значение "
+#~ "поля не восстанавливается."
+
+#~ msgid ""
+#~ "5) Recalculate calculator total - recalculates the value of the \"total "
+#~ "calculation\" field. Works only with this type of field. This logic can "
+#~ "be used to implement discounts. Shortcode [itog] is the value of the "
+#~ "calculator. Other shortcodes are not supported. If the condition is no "
+#~ "longer met, the influence of this field disappears for the calculation. "
+#~ "Example of releasing discount(20%):"
+#~ msgstr ""
+#~ "5) Пересчитать итог калькулятора - пересчитывает значение поля "
+#~ "\"калькуляция\". Работает только с этим типом поля. Эта логика может быть "
+#~ "использована для реализации скидок. Шорткод [itog] - это значение "
+#~ "калькулятора. Другие шорткоды не поддерживаются. Если условие больше не "
+#~ "выполняется, то влияние этого поля для расчета исчезает. Пример "
+#~ "реализации 20% скидки:"
+
+#~ msgid "Inline form"
+#~ msgstr "Обычная форма"
+
+#~ msgid "Popup form"
+#~ msgstr "Всплывающая форма"
+
+#~ msgid "Please let us know the reason for deactivating the plugin."
+#~ msgstr "Пожалуйста, сообщите нам причину деактивации плагина."
+
+#~ msgid "Send a message"
+#~ msgstr "Отправить сообщение"
+
+#~ msgid "Skip"
+#~ msgstr "Пропустить"
+
+#~ msgid ""
+#~ "If you have problems, please describe them. In the next update we will "
+#~ "make fixes."
+#~ msgstr ""
+#~ "Если у вас возникли проблемы с плагином, пожалуйста, опишите их. В "
+#~ "следующем обновлении мы внесем исправления."
+
+#, fuzzy
+#~| msgid "You comments"
+#~ msgid "Your comment"
+#~ msgstr "Ваш комментарий"
+
+#~ msgid "Deactivate"
+#~ msgstr "Деактивация"
+
+#~ msgid "The formula with id fields is indicated here."
+#~ msgstr "Здесь указана формула с полями ID"
+
+#~ msgid "NAME"
+#~ msgstr "ИМЯ"

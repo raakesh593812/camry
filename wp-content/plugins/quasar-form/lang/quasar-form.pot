@@ -1,0 +1,1733 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quasar form\n"
+"POT-Creation-Date: 2021-08-20 21:43+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Myname <nucleusgenius@mail.com>\n"
+"Language-Team: nucleusgenius\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:15
+msgid "Free version"
+msgstr ""
+
+#: admin.php:19
+msgid "License"
+msgstr ""
+
+#: admin.php:20
+msgid "Speed settings"
+msgstr ""
+
+#: admin.php:25
+msgid ""
+"If your goal is the maximum website loading speed and the \"PageSpeed "
+"Insights\" (Google speed) indicator is important for you, you can disable "
+"libraries that are not used in the forms. If you disable all libraries, the "
+"plugin will affect the website loading speed by 0.5%."
+msgstr ""
+
+#: admin.php:30
+msgid "Disable the fa fa icons library"
+msgstr ""
+
+#: admin.php:34
+msgid "Disable the \"Datepicker\" field library"
+msgstr ""
+
+#: admin.php:38
+msgid "Disable the \"Slider\" field library"
+msgstr ""
+
+#: admin.php:42
+msgid "Disable the phone mask library in the \"Phone input\" field"
+msgstr ""
+
+#: admin.php:46
+msgid "Disable calculator library"
+msgstr ""
+
+#: admin.php:51
+msgid "Save setting"
+msgstr ""
+
+#: admin.php:53
+msgid "Error while saving"
+msgstr ""
+
+#: admin.php:54 admin.php:1083
+msgid "Form saved"
+msgstr ""
+
+#: admin.php:70
+msgid "Please activate the plugin"
+msgstr ""
+
+#: admin.php:72
+msgid "Enter product key"
+msgstr ""
+
+#: admin.php:74
+msgid "Activate"
+msgstr ""
+
+#: admin.php:81
+msgid "Plugin activated"
+msgstr ""
+
+#: admin.php:82
+msgid ""
+"You can contact support if you encounter problems with the operation of the "
+"plugin."
+msgstr ""
+
+#: admin.php:86
+msgid "Plugin not activated"
+msgstr ""
+
+#: admin.php:87
+msgid "Support service is not available for you."
+msgstr ""
+
+#: admin.php:98 admin.php:996 quasar-form-main.php:351
+msgid "Select form"
+msgstr ""
+
+#: admin.php:102
+msgid "Сreating a new form"
+msgstr ""
+
+#: admin.php:104 admin.php:1032 quasar-form-main.php:354
+msgid "Form name"
+msgstr ""
+
+#: admin.php:107 admin.php:119
+msgid "Сreate form"
+msgstr ""
+
+#: admin.php:115
+msgid "Yes"
+msgstr ""
+
+#: admin.php:116
+msgid "No"
+msgstr ""
+
+#: admin.php:123
+msgid "ID"
+msgstr ""
+
+#: admin.php:124
+msgid "Name and shortcode"
+msgstr ""
+
+#: admin.php:125
+msgid "Last-edit"
+msgstr ""
+
+#: admin.php:142
+msgid "more than a year ago"
+msgstr ""
+
+#: admin.php:144
+msgid "last year"
+msgstr ""
+
+#: admin.php:151
+msgid "last month"
+msgstr ""
+
+#: admin.php:152 admin.php:153
+msgid " months ago"
+msgstr ""
+
+#: admin.php:160
+msgid "yesterday"
+msgstr ""
+
+#: admin.php:161 admin.php:162
+msgid " days ago"
+msgstr ""
+
+#: admin.php:169
+msgid "hour ago"
+msgstr ""
+
+#: admin.php:170 admin.php:171
+msgid " hours ago"
+msgstr ""
+
+#: admin.php:174
+msgid " less than an hour ago"
+msgstr ""
+
+#: admin.php:231
+msgid "Shortcode for popup form looks like this:"
+msgstr ""
+
+#: admin.php:239
+msgid "Last 30 emails"
+msgstr ""
+
+#: admin.php:311 admin.php:925
+msgid "Available only in pro version"
+msgstr ""
+
+#: admin.php:314
+msgid "https://quasar-form.com/help/using-conditional-logic/"
+msgstr ""
+
+#: admin.php:314
+msgid "Description of the operation of logic with examples"
+msgstr ""
+
+#: admin.php:321
+msgid "Setting email"
+msgstr ""
+
+#: admin.php:322
+msgid "Text after sending form"
+msgstr ""
+
+#: admin.php:323
+msgid "Frontend text"
+msgstr ""
+
+#: admin.php:324
+msgid "Import/export form"
+msgstr ""
+
+#: admin.php:328
+msgid "Select a method for sending letters"
+msgstr ""
+
+#: admin.php:340
+msgid "WP-mail"
+msgstr ""
+
+#: admin.php:346
+msgid "SMTP Method"
+msgstr ""
+
+#: admin.php:351 admin.php:352 admin.php:359 admin.php:360 admin.php:1325
+msgid "Sender Name"
+msgstr ""
+
+#: admin.php:355 admin.php:356 admin.php:363 admin.php:364 admin.php:1326
+msgid "Sender Email"
+msgstr ""
+
+#: admin.php:367 admin.php:368 admin.php:1327
+msgid "Username"
+msgstr ""
+
+#: admin.php:371 admin.php:372 admin.php:1328
+msgid "Password"
+msgstr ""
+
+#: admin.php:375 admin.php:376 admin.php:1329
+msgid "SMTP Host"
+msgstr ""
+
+#: admin.php:379 admin.php:380 admin.php:1330
+msgid "Port"
+msgstr ""
+
+#: admin.php:389 admin.php:1323
+msgid "Send Email To"
+msgstr ""
+
+#: admin.php:391
+msgid "mail1@example.com"
+msgstr ""
+
+#: admin.php:396 admin.php:1324
+msgid "Email Subject"
+msgstr ""
+
+#: admin.php:397
+msgid "Email subject from this form"
+msgstr ""
+
+#: admin.php:404
+msgid "Email notifications"
+msgstr ""
+
+#: admin.php:410
+msgid "You have received a new form submission"
+msgstr ""
+
+#: admin.php:420
+msgid "Redirection after sending. Leave blank if redirect is not needed"
+msgstr ""
+
+#: admin.php:422
+msgid "http://example.com/thank-you"
+msgstr ""
+
+#: admin.php:429
+msgid ""
+"In this section you set the text to be shown after the form is submitted."
+msgstr ""
+
+#: admin.php:437
+msgid "Localization frontend text"
+msgstr ""
+
+#: admin.php:440 admin.php:486 admin.php:493
+msgid "Your message has been sent"
+msgstr ""
+
+#: admin.php:440 admin.php:486 admin.php:493
+msgid "Message received"
+msgstr ""
+
+#: admin.php:443
+msgid "Message is sent"
+msgstr ""
+
+#: admin.php:446
+msgid "Required field"
+msgstr ""
+
+#: admin.php:446 admin.php:1193
+msgid "Required"
+msgstr ""
+
+#: admin.php:449
+msgid "Invalid email address"
+msgstr ""
+
+#: admin.php:449
+msgid "Invalid email"
+msgstr ""
+
+#: admin.php:452 admin.php:1223
+msgid "Only alphabets"
+msgstr ""
+
+#: admin.php:455 admin.php:1224
+msgid "Only numbers"
+msgstr ""
+
+#: admin.php:458
+msgid "Сaptcha error"
+msgstr ""
+
+#: admin.php:461 admin.php:1093 admin.php:1298
+msgid "Upload file"
+msgstr ""
+
+#: admin.php:464
+msgid "Add file"
+msgstr ""
+
+#: admin.php:467
+msgid "file size exceeded"
+msgstr ""
+
+#: admin.php:467
+msgid "File size exceeded"
+msgstr ""
+
+#: admin.php:470
+msgid "invalid file extension"
+msgstr ""
+
+#: admin.php:470
+msgid "Invalid file extension"
+msgstr ""
+
+#: admin.php:473
+msgid "Next"
+msgstr ""
+
+#: admin.php:476
+msgid "Invalid phone"
+msgstr ""
+
+#: admin.php:482
+msgid "Select text to export"
+msgstr ""
+
+#: admin.php:485
+msgid "Export form"
+msgstr ""
+
+#: admin.php:491
+msgid "Import form"
+msgstr ""
+
+#: admin.php:492
+msgid "Incorrect text of export!"
+msgstr ""
+
+#: admin.php:495
+msgid "Apply import"
+msgstr ""
+
+#: admin.php:497
+msgid "To be able to import the form, you need to save and refresh the page."
+msgstr ""
+
+#: admin.php:498
+msgid ""
+"If during the import or export process you do not copy all the text, this "
+"may lead to errors in the form!"
+msgstr ""
+
+#: admin.php:504
+msgid "Design form"
+msgstr ""
+
+#: admin.php:505
+msgid "Design popup button"
+msgstr ""
+
+#: admin.php:513 admin.php:574
+msgid "Padding left"
+msgstr ""
+
+#: admin.php:517 admin.php:578
+msgid "Padding right"
+msgstr ""
+
+#: admin.php:521 admin.php:582
+msgid "Padding top"
+msgstr ""
+
+#: admin.php:525 admin.php:586
+msgid "Padding bottom"
+msgstr ""
+
+#: admin.php:531 admin.php:595
+msgid "Custom class"
+msgstr ""
+
+#: admin.php:535 admin.php:599 admin.php:1185
+msgid "Border radius"
+msgstr ""
+
+#: admin.php:541 admin.php:608 admin.php:1187
+msgid "Border color"
+msgstr ""
+
+#: admin.php:545 admin.php:612 admin.php:1186
+msgid "Border width"
+msgstr ""
+
+#: admin.php:551 admin.php:618 admin.php:1179
+msgid "Background color"
+msgstr ""
+
+#: admin.php:555
+msgid "Custom background image"
+msgstr ""
+
+#: admin.php:567
+msgid "Text in the button"
+msgstr ""
+
+#: admin.php:623
+msgid "Hover: background, color"
+msgstr ""
+
+#: admin.php:628 admin.php:632 admin.php:1280
+msgid "Color"
+msgstr ""
+
+#: admin.php:642
+msgid "Font color"
+msgstr ""
+
+#: admin.php:646 admin.php:1177 admin.php:1214
+msgid "Font size"
+msgstr ""
+
+#: admin.php:657
+msgid "Simple forms"
+msgstr ""
+
+#: admin.php:658
+msgid "Сalculator example"
+msgstr ""
+
+#: admin.php:661
+msgid "Click on the desired template"
+msgstr ""
+
+#: admin.php:666 admin.php:711 admin.php:756 admin.php:802 admin.php:830
+#: admin.php:867 admin.php:896 admin.php:1264
+msgid "Name"
+msgstr ""
+
+#: admin.php:668 admin.php:1265
+msgid "Your full name"
+msgstr ""
+
+#: admin.php:673 admin.php:718 admin.php:763 admin.php:808 admin.php:837
+#: admin.php:873 admin.php:902 admin.php:1306
+msgid "Phone"
+msgstr ""
+
+#: admin.php:675 admin.php:1307
+msgid "Your phone number"
+msgstr ""
+
+#: admin.php:680 admin.php:725 admin.php:770 admin.php:814 admin.php:844
+#: admin.php:879 admin.php:908 admin.php:1266
+msgid "Email"
+msgstr ""
+
+#: admin.php:682 admin.php:1267
+msgid "A valid email"
+msgstr ""
+
+#: admin.php:687 admin.php:732 admin.php:777 admin.php:851 admin.php:1273
+msgid "Comments"
+msgstr ""
+
+#: admin.php:688 admin.php:819 admin.php:884 admin.php:913
+msgid "You comments"
+msgstr ""
+
+#: admin.php:698 admin.php:743 admin.php:788 admin.php:1279
+msgid "I agree to the privacy policy"
+msgstr ""
+
+#: admin.php:703 admin.php:748 admin.php:793 admin.php:822 admin.php:855
+#: admin.php:887 admin.php:916 admin.php:1094 admin.php:1272 admin.php:1299
+msgid "Submit"
+msgstr ""
+
+#: admin.php:863 admin.php:1169
+msgid "Heading"
+msgstr ""
+
+#: admin.php:936
+msgid "1. How to add a form to a page"
+msgstr ""
+
+#: admin.php:937
+msgid "1.1. Add this short code:"
+msgstr ""
+
+#: admin.php:938
+msgid "1.2. if you need a popup form:"
+msgstr ""
+
+#: admin.php:939
+msgid "!Saved forms and updated pages so that short codes are generated."
+msgstr ""
+
+#: admin.php:940
+msgid "1.3. You can use the button in the panel:"
+msgstr ""
+
+#: admin.php:942
+msgid "Add to gutenberg"
+msgstr ""
+
+#: admin.php:948
+msgid "Add to classic editor"
+msgstr ""
+
+#: admin.php:956
+msgid "2. Custom pop-up button"
+msgstr ""
+
+#: admin.php:957
+msgid "To attach a pop-up form to an custom html element add the class"
+msgstr ""
+
+#: admin.php:957
+msgid "and the attribute"
+msgstr ""
+
+#: admin.php:957
+msgid ", where instead of \"1\" id the desired form."
+msgstr ""
+
+#: admin.php:959
+msgid ""
+"Sample: <p class=\"quasar-form-button\" data-quasarid=\"1\">Text in the "
+"button</p>"
+msgstr ""
+
+#: admin.php:960
+msgid "! Important: the short code of this form should be located on the page"
+msgstr ""
+
+#: admin.php:961
+msgid ""
+"Sample: <p style=\"display: none\">[formaQ id=\"1\" type=\"popup\" align="
+"\"right\" ] </p>"
+msgstr ""
+
+#: admin.php:966
+msgid "3. What to do if notifications are not received in the email?"
+msgstr ""
+
+#: admin.php:967
+msgid "https://quasar-form.com/help/sending-emails/basic-setup/"
+msgstr ""
+
+#: admin.php:968 admin.php:975 admin.php:982
+msgid "Instruction"
+msgstr ""
+
+#: admin.php:973
+msgid "4. How to create a calculator?"
+msgstr ""
+
+#: admin.php:974
+msgid "https://quasar-form.com/help/using-calculator-functions/"
+msgstr ""
+
+#: admin.php:980
+msgid "5. JS Event"
+msgstr ""
+
+#: admin.php:981
+msgid "https://quasar-form.com/js-events/"
+msgstr ""
+
+#: admin.php:986
+msgid "Read the documentation on the official website"
+msgstr ""
+
+#: admin.php:993
+msgid "Back to menu"
+msgstr ""
+
+#: admin.php:1011 admin.php:1166
+msgid "Setting"
+msgstr ""
+
+#: admin.php:1012 admin.php:1167
+msgid "Design"
+msgstr ""
+
+#: admin.php:1013
+msgid "Logic"
+msgstr ""
+
+#: admin.php:1014
+msgid "Quick start"
+msgstr ""
+
+#: admin.php:1015
+msgid "Help"
+msgstr ""
+
+#: admin.php:1021 quasar-form-main.php:348
+msgid "Inline"
+msgstr ""
+
+#: admin.php:1022 quasar-form-main.php:349
+msgid "Popup"
+msgstr ""
+
+#: admin.php:1028 admin.php:1259
+msgid "This name is already in use"
+msgstr ""
+
+#: admin.php:1029 admin.php:1258
+msgid "The form name cannot be empty"
+msgstr ""
+
+#: admin.php:1030 admin.php:1260
+msgid "The name can contain up to 20 characters"
+msgstr ""
+
+#: admin.php:1036 admin.php:1263
+msgid "Width"
+msgstr ""
+
+#: admin.php:1040
+msgid "Preview form"
+msgstr ""
+
+#: admin.php:1052 admin.php:1101 admin.php:1106 admin.php:1114 admin.php:1385
+msgid "Library disabled"
+msgstr ""
+
+#: admin.php:1075
+msgid "none"
+msgstr ""
+
+#: admin.php:1082
+msgid "Add field"
+msgstr ""
+
+#: admin.php:1084
+msgid "Error saved"
+msgstr ""
+
+#: admin.php:1085
+msgid "One line input"
+msgstr ""
+
+#: admin.php:1086
+msgid "Phone input"
+msgstr ""
+
+#: admin.php:1087
+msgid "Email input"
+msgstr ""
+
+#: admin.php:1088
+msgid "Textarea"
+msgstr ""
+
+#: admin.php:1089
+msgid "Checkbox"
+msgstr ""
+
+#: admin.php:1090 admin.php:1108 admin.php:1109 admin.php:1110 admin.php:1122
+msgid "Pro"
+msgstr ""
+
+#: admin.php:1090
+msgid "Checkbox img"
+msgstr ""
+
+#: admin.php:1091 admin.php:1300
+msgid "Privacy policy"
+msgstr ""
+
+#: admin.php:1092 admin.php:1274
+msgid "Custom text/html"
+msgstr ""
+
+#: admin.php:1096
+msgid "More fields"
+msgstr ""
+
+#: admin.php:1100
+msgid "Slider"
+msgstr ""
+
+#: admin.php:1103
+msgid "Dropdown"
+msgstr ""
+
+#: admin.php:1105
+msgid "Datepicker"
+msgstr ""
+
+#: admin.php:1108 admin.php:1301
+msgid "Quantity"
+msgstr ""
+
+#: admin.php:1109
+msgid "Progress of quiz"
+msgstr ""
+
+#: admin.php:1110
+msgid "Tooltip"
+msgstr ""
+
+#: admin.php:1111 admin.php:1302
+msgid "Captcha"
+msgstr ""
+
+#: admin.php:1113
+msgid "Total calculation"
+msgstr ""
+
+#: admin.php:1120
+msgid "Other"
+msgstr ""
+
+#: admin.php:1121
+msgid "Add construction"
+msgstr ""
+
+#: admin.php:1122
+msgid "Add tab"
+msgstr ""
+
+#: admin.php:1123
+msgid "Save form"
+msgstr ""
+
+#: admin.php:1138
+msgid "1) Each new line creates a checkbox."
+msgstr ""
+
+#: admin.php:1139
+msgid ""
+"2) Can use html, styles and classes on each line (example: <span style="
+"\"color: #000\">Red </span>). Do not use this feature if you are using this "
+"checkbox in logic."
+msgstr ""
+
+#: admin.php:1140
+msgid ""
+"3) If you want to use checkboxes for the calculator, set the sum of each "
+"checkbox as follows. Example:"
+msgstr ""
+
+#: admin.php:1141 admin.php:1151
+msgid "100==Red"
+msgstr ""
+
+#: admin.php:1142 admin.php:1152
+msgid "300==Blue"
+msgstr ""
+
+#: admin.php:1146
+msgid ""
+"The field will be hidden on page load. Why is this needed? For dynamic "
+"forms, you can use logic to show or hide fields."
+msgstr ""
+
+#: admin.php:1149
+msgid ""
+"1) A string that starts with \"! =\" is considered a placeholder and is "
+"selected by default. Until another value is selected, the field is "
+"considered blank."
+msgstr ""
+
+#: admin.php:1150
+msgid ""
+"2) If you want to use this field for the calculator, set the sum of each "
+"option as follows. Example:"
+msgstr ""
+
+#: admin.php:1156
+msgid ""
+"1) Here you enter the formula for your calculator. In order for a field to "
+"participate in the calculation, you need to specify its id in curly braces."
+msgstr ""
+
+#: admin.php:1157
+msgid "2) Mathematical operators available: + - * / ( )"
+msgstr ""
+
+#: admin.php:1158
+msgid "3) Decimal values are written with a dot, for example: 10.45"
+msgstr ""
+
+#: admin.php:1159
+msgid "4) The screenshot shows the location of the id of each field:"
+msgstr ""
+
+#: admin.php:1160
+msgid "5) In the formula, you can use the ID of other total fields"
+msgstr ""
+
+#: admin.php:1163
+msgid "Disable shadow"
+msgstr ""
+
+#: admin.php:1165
+msgid "Stretch background image"
+msgstr ""
+
+#: admin.php:1170
+msgid "Heading size"
+msgstr ""
+
+#: admin.php:1171 admin.php:1220
+msgid "Heading color"
+msgstr ""
+
+#: admin.php:1172
+msgid "Heading indent"
+msgstr ""
+
+#: admin.php:1173
+msgid "Heading weight"
+msgstr ""
+
+#: admin.php:1174
+msgid "Field width"
+msgstr ""
+
+#: admin.php:1175
+msgid "Field style"
+msgstr ""
+
+#: admin.php:1176
+msgid "Placeholder"
+msgstr ""
+
+#: admin.php:1178
+msgid "Placeholder color"
+msgstr ""
+
+#: admin.php:1180
+msgid "Background color 1"
+msgstr ""
+
+#: admin.php:1181
+msgid "Background color 2"
+msgstr ""
+
+#: admin.php:1182
+msgid "Color 1"
+msgstr ""
+
+#: admin.php:1183
+msgid "icons"
+msgstr ""
+
+#: admin.php:1184
+msgid "Border color while in focus"
+msgstr ""
+
+#: admin.php:1188
+msgid "Height"
+msgstr ""
+
+#: admin.php:1189 admin.php:1230
+msgid "More setting"
+msgstr ""
+
+#: admin.php:1190
+msgid "Validation"
+msgstr ""
+
+#: admin.php:1191 admin.php:1235
+msgid "Padding: left right top bottom"
+msgstr ""
+
+#: admin.php:1192
+msgid "Icon color"
+msgstr ""
+
+#: admin.php:1194
+msgid "Hide field on page"
+msgstr ""
+
+#: admin.php:1195
+msgid "Custom CSS class for container"
+msgstr ""
+
+#: admin.php:1196
+msgid "Custom CSS class for input"
+msgstr ""
+
+#: admin.php:1197
+msgid "Custom CSS class for textarea"
+msgstr ""
+
+#: admin.php:1198
+msgid "Custom CSS class for button"
+msgstr ""
+
+#: admin.php:1199
+msgid "duplicate"
+msgstr ""
+
+#: admin.php:1200
+msgid "Min value"
+msgstr ""
+
+#: admin.php:1201
+msgid "Max value"
+msgstr ""
+
+#: admin.php:1202
+msgid "Step"
+msgstr ""
+
+#: admin.php:1203
+msgid "default value"
+msgstr ""
+
+#: admin.php:1204
+msgid "Range color 1"
+msgstr ""
+
+#: admin.php:1205
+msgid "Range color 2"
+msgstr ""
+
+#: admin.php:1206
+msgid "Color of the toggle"
+msgstr ""
+
+#: admin.php:1207
+msgid "Number color"
+msgstr ""
+
+#: admin.php:1208
+msgid "Tab style"
+msgstr ""
+
+#: admin.php:1209
+msgid "Scale"
+msgstr ""
+
+#: admin.php:1210
+msgid "File limit"
+msgstr ""
+
+#: admin.php:1211
+msgid "Allowed Extensions"
+msgstr ""
+
+#: admin.php:1212
+msgid "Max size of 1 file in mb"
+msgstr ""
+
+#: admin.php:1213 quasar-form-main.php:350
+msgid "Button text"
+msgstr ""
+
+#: admin.php:1215
+msgid "Color text"
+msgstr ""
+
+#: admin.php:1216
+msgid "Field align"
+msgstr ""
+
+#: admin.php:1217
+msgid "Text align"
+msgstr ""
+
+#: admin.php:1218
+msgid "Full width"
+msgstr ""
+
+#: admin.php:1219
+msgid "Background head"
+msgstr ""
+
+#: admin.php:1221
+msgid "Option color"
+msgstr ""
+
+#: admin.php:1222
+msgid "None"
+msgstr ""
+
+#: admin.php:1225
+msgid "Select"
+msgstr ""
+
+#: admin.php:1226
+msgid "Hover/active background"
+msgstr ""
+
+#: admin.php:1227
+msgid "Select color"
+msgstr ""
+
+#: admin.php:1228
+msgid "Hover background"
+msgstr ""
+
+#: admin.php:1229
+msgid "Hover color"
+msgstr ""
+
+#: admin.php:1231
+msgid "Сheckboxs text/html"
+msgstr ""
+
+#: admin.php:1232
+msgid "Links to checkbox images"
+msgstr ""
+
+#: admin.php:1233
+msgid "Сheckboxs text. Can use html."
+msgstr ""
+
+#: admin.php:1234
+msgid "Links to images inside checkboxes"
+msgstr ""
+
+#: admin.php:1236 admin.php:1238
+msgid "Margin: top, text, check"
+msgstr ""
+
+#: admin.php:1237
+msgid "Margin: text-left, text-top, top, bottom, right, left"
+msgstr ""
+
+#: admin.php:1239
+msgid "Margin: left, right, top, bottom"
+msgstr ""
+
+#: admin.php:1240
+msgid "Radio-buttons"
+msgstr ""
+
+#: admin.php:1241
+msgid "Align"
+msgstr ""
+
+#: admin.php:1242
+msgid "Horizontlal"
+msgstr ""
+
+#: admin.php:1243
+msgid "Vertical"
+msgstr ""
+
+#: admin.php:1244 admin.php:1297
+msgid "Custom text"
+msgstr ""
+
+#: admin.php:1245
+msgid "Your formula to calculate."
+msgstr ""
+
+#: admin.php:1246
+msgid "Custom text, [itog] - displays the calculation digit."
+msgstr ""
+
+#: admin.php:1247
+msgid "! incorrect filling of this field can cause errors."
+msgstr ""
+
+#: admin.php:1248
+msgid "Example"
+msgstr ""
+
+#: admin.php:1249
+msgid "Optiopns"
+msgstr ""
+
+#: admin.php:1250
+msgid "Checkbox color: border, check"
+msgstr ""
+
+#: admin.php:1251
+msgid "Checkbox size: border, check"
+msgstr ""
+
+#: admin.php:1252
+msgid "style-1"
+msgstr ""
+
+#: admin.php:1253
+msgid "style-2"
+msgstr ""
+
+#: admin.php:1254
+msgid "Pro style-3"
+msgstr ""
+
+#: admin.php:1255
+msgid "Pro style-4"
+msgstr ""
+
+#: admin.php:1256
+msgid "Remove"
+msgstr ""
+
+#: admin.php:1257
+msgid "Your form"
+msgstr ""
+
+#: admin.php:1261
+msgid "Single box width"
+msgstr ""
+
+#: admin.php:1262
+msgid "More details"
+msgstr ""
+
+#: admin.php:1268
+msgid "Select item"
+msgstr ""
+
+#: admin.php:1269
+msgid "Red"
+msgstr ""
+
+#: admin.php:1270
+msgid "Blue"
+msgstr ""
+
+#: admin.php:1271
+msgid "Item"
+msgstr ""
+
+#: admin.php:1275
+msgid "Date"
+msgstr ""
+
+#: admin.php:1276
+msgid "Choose a date"
+msgstr ""
+
+#: admin.php:1277
+msgid "Select An Option"
+msgstr ""
+
+#: admin.php:1278
+msgid "Total"
+msgstr ""
+
+#: admin.php:1281
+msgid "Show field"
+msgstr ""
+
+#: admin.php:1282
+msgid "Hide field"
+msgstr ""
+
+#: admin.php:1283
+msgid "Change html in custom text"
+msgstr ""
+
+#: admin.php:1284
+msgid "Select action"
+msgstr ""
+
+#: admin.php:1285
+msgid "And"
+msgstr ""
+
+#: admin.php:1286
+msgid "Or"
+msgstr ""
+
+#: admin.php:1287
+msgid "Trigger"
+msgstr ""
+
+#: admin.php:1288
+msgid "Conditions"
+msgstr ""
+
+#: admin.php:1289
+msgid "is equal to"
+msgstr ""
+
+#: admin.php:1290
+msgid "is not equal to"
+msgstr ""
+
+#: admin.php:1291
+msgid "is greater than"
+msgstr ""
+
+#: admin.php:1292
+msgid "is less than"
+msgstr ""
+
+#: admin.php:1293
+msgid "filled"
+msgstr ""
+
+#: admin.php:1294
+msgid "not filled"
+msgstr ""
+
+#: admin.php:1295
+msgid "Value"
+msgstr ""
+
+#: admin.php:1296
+msgid "Select a field"
+msgstr ""
+
+#: admin.php:1303
+msgid "Set value of field"
+msgstr ""
+
+#: admin.php:1304
+msgid "Recalculate calculator total"
+msgstr ""
+
+#: admin.php:1305
+msgid "Example of releasing discount (20%):"
+msgstr ""
+
+#: admin.php:1308
+msgid "!All fields created earlier will be overwritten"
+msgstr ""
+
+#: admin.php:1310
+msgid "Phone mask"
+msgstr ""
+
+#: admin.php:1311
+msgid "0(999) 999-9999"
+msgstr ""
+
+#: admin.php:1312
+msgid "Use a mask"
+msgstr ""
+
+#: admin.php:1313
+msgid "Styles 3 and 4 are available only in pro version."
+msgstr ""
+
+#: admin.php:1314
+msgid "Rounding of total"
+msgstr ""
+
+#: admin.php:1315
+msgid "Standard rounding"
+msgstr ""
+
+#: admin.php:1316
+msgid "Round up"
+msgstr ""
+
+#: admin.php:1317
+msgid "Round down"
+msgstr ""
+
+#: admin.php:1318
+msgid "No rounding, two decimal places"
+msgstr ""
+
+#: admin.php:1319
+msgid "No rounding, one decimal places"
+msgstr ""
+
+#: admin.php:1320
+msgid "No rounding"
+msgstr ""
+
+#: admin.php:1331
+msgid "To receive letters from the form fill in the fields:"
+msgstr ""
+
+#: admin.php:1332
+msgid ""
+"if all the settings fields are filled in correctly, you will receive "
+"letters after submitting the form."
+msgstr ""
+
+#: admin.php:1333
+msgid "The \"Send Email To\" field is filled in incorrectly"
+msgstr ""
+
+#: admin.php:1334
+msgid "The \"Username\" field is filled in incorrectly"
+msgstr ""
+
+#: admin.php:1335
+msgid "The \"Sender Email\" field is filled in incorrectly"
+msgstr ""
+
+#: admin.php:1336
+msgid "The \"Port\" field is filled in incorrectly"
+msgstr ""
+
+#: admin.php:1337
+msgid ""
+"Please note that all forms created through the Quasar form plugin are "
+"already protected from spam. This way you can do without captcha."
+msgstr ""
+
+#: admin.php:1340
+msgid "Screenshot of working version of WP-mail settings:"
+msgstr ""
+
+#: admin.php:1341
+msgid "help-mail-1.png"
+msgstr ""
+
+#: admin.php:1342 admin.php:1459
+msgid "It is better to use the following address as the sender mail: noreply@"
+msgstr ""
+
+#: admin.php:1343
+msgid "If letters do not arrive, check your spam folder."
+msgstr ""
+
+#: admin.php:1347
+msgid "Screenshot of working version of SMTP-mail settings:"
+msgstr ""
+
+#: admin.php:1348
+msgid "help-mail-2.png"
+msgstr ""
+
+#: admin.php:1349
+msgid ""
+"Depending on the host of your mail, you may need additional steps to set up "
+"your mail."
+msgstr ""
+
+#: admin.php:1353
+msgid "\"9\" - Represents a numeric character (0-9)"
+msgstr ""
+
+#: admin.php:1354
+msgid "Examples of number masks:"
+msgstr ""
+
+#: admin.php:1356
+msgid "England: +44 9999 9999"
+msgstr ""
+
+#: admin.php:1357
+msgid "France: +33 9 99 99 99 99"
+msgstr ""
+
+#: admin.php:1358
+msgid "Russia: +7(999) 999-9999"
+msgstr ""
+
+#: admin.php:1362
+msgid ""
+"If your theme already has styles for a simple form and you want to use "
+"them, then enable this option."
+msgstr ""
+
+#: admin.php:1363
+msgid "This option disables plugin styles for the following fields:"
+msgstr ""
+
+#: admin.php:1364 admin.php:1400
+msgid "1) Input (One line input, Phone input, Email input, Datepicker)"
+msgstr ""
+
+#: admin.php:1365 admin.php:1401
+msgid "2) Textarea"
+msgstr ""
+
+#: admin.php:1366 admin.php:1402
+msgid "3) Select (Dropdown)"
+msgstr ""
+
+#: admin.php:1367
+msgid "4) Submit"
+msgstr ""
+
+#: admin.php:1370
+msgid "Styles of some of the fields are disabled in the settings"
+msgstr ""
+
+#: admin.php:1371
+msgid "Disable field design"
+msgstr ""
+
+#: admin.php:1372
+msgid "Сopy"
+msgstr ""
+
+#: admin.php:1373
+msgid "Paste"
+msgstr ""
+
+#: admin.php:1375
+msgid "Copy field styles"
+msgstr ""
+
+#: admin.php:1376
+msgid "Fill the field with content outside the form"
+msgstr ""
+
+#: admin.php:1377
+msgid "Disabled"
+msgstr ""
+
+#: admin.php:1378
+msgid "Fill after page load"
+msgstr ""
+
+#: admin.php:1379
+msgid "Fill when sending the form"
+msgstr ""
+
+#: admin.php:1380
+msgid "Autocomplete status"
+msgstr ""
+
+#: admin.php:1381
+msgid "Default"
+msgstr ""
+
+#: admin.php:1382
+msgid "Lang"
+msgstr ""
+
+#: admin.php:1383
+msgid "English"
+msgstr ""
+
+#: admin.php:1384
+msgid "Russian"
+msgstr ""
+
+#: admin.php:1386
+msgid "Activated by default"
+msgstr ""
+
+#: admin.php:1387
+msgid "yes"
+msgstr ""
+
+#: admin.php:1388
+msgid "not"
+msgstr ""
+
+#: admin.php:1389
+msgid "Full size"
+msgstr ""
+
+#: admin.php:1390
+msgid "Disable design"
+msgstr ""
+
+#: admin.php:1391
+msgid "Note the calculator works only in the front-end of the site"
+msgstr ""
+
+#: admin.php:1392
+msgid "Error"
+msgstr ""
+
+#: admin.php:1393
+msgid "Hide until all fields are filled"
+msgstr ""
+
+#: admin.php:1397
+msgid "This option allows you to copy the styles of some fields."
+msgstr ""
+
+#: admin.php:1398
+msgid ""
+"For example, in order to not re-style similar fields like \"Phone input\" "
+"and\" Email input \", you just need to copy the styles of one field and "
+"apply them on the other."
+msgstr ""
+
+#: admin.php:1399
+msgid "Fields that support the transfer of styles:"
+msgstr ""
+
+#: admin.php:1407
+msgid ""
+"This option allows you to write data outside of the form into the form."
+msgstr ""
+
+#: admin.php:1408
+msgid "What is it for?"
+msgstr ""
+
+#: admin.php:1409
+msgid ""
+"For example, your form is located in the product card, you can write down "
+"the name of the product, price and other parameters in the form fields. You "
+"just need to specify the class of the element with the content you want."
+msgstr ""
+
+#: admin.php:1410
+msgid ""
+"Fields that you fill in this way can be hidden for display in the front end "
+"so they will not distract users."
+msgstr ""
+
+#: admin.php:1411
+msgid "There are two options for writing the class"
+msgstr ""
+
+#: admin.php:1412
+msgid ""
+"1) write one class. In this case, the search will be carried out throughout "
+"the whole page."
+msgstr ""
+
+#: admin.php:1413 admin.php:1424
+msgid "help3eng"
+msgstr ""
+
+#: admin.php:1414
+msgid ""
+"2) write two classes separated by comma. In this case, the search will be "
+"conducted from the form or form button along the DOM upwards until the "
+"first class is found (similar to the .closest () method). When the first "
+"class is found, it is going to search inside for the element of the second "
+"class, from which the content will be obtained. The second method is needed "
+"in cases where many elements have the same class."
+msgstr ""
+
+#: admin.php:1415
+msgid "help4eng"
+msgstr ""
+
+#: admin.php:1416
+msgid ""
+"The variant with 2 classes will work correctly only if the option \"Fill "
+"out when submitting the form\" is selected in the field \"Autocomplete "
+"status\"."
+msgstr ""
+
+#: admin.php:1420
+msgid ""
+"This option allows you to enable automatic filling of fields with data "
+"outside the form."
+msgstr ""
+
+#: admin.php:1421
+msgid ""
+"\"Fill after page load\" - this field will be filled after page load with "
+"data that is contained in the element, the class of which you specified."
+msgstr ""
+
+#: admin.php:1422
+msgid ""
+"\"Fill in when submitting the form\" - this field will be filled in when "
+"submitting the form, with the data contained in the element, the class of "
+"which you specified. Only this mode supports two classes."
+msgstr ""
+
+#: admin.php:1423
+msgid ""
+"Classes must be set in the field \"Fill the field with content outside the "
+"form\"."
+msgstr ""
+
+#: admin.php:1425
+msgid ""
+"If this option is enabled, then validation and mandatory filling of this "
+"field are ignored."
+msgstr ""
+
+#: admin.php:1429
+msgid "This field is the text of your notice that you will receive by email."
+msgstr ""
+
+#: admin.php:1430
+msgid "Shortcodes you can use:"
+msgstr ""
+
+#: admin.php:1431
+msgid "1) [content form] - content of all form fields."
+msgstr ""
+
+#: admin.php:1432
+msgid "2) [URL] - link to the page from which the form was submitted."
+msgstr ""
+
+#: admin.php:1433
+msgid ""
+"3) [page title] - the title of the page or post from which the form was "
+"submitted."
+msgstr ""
+
+#: admin.php:1434
+msgid "4) [Time] - form submission time."
+msgstr ""
+
+#: admin.php:1435
+msgid ""
+"5) id of any field can be wrapped in brackets to get its content, for "
+"example: [Field73q451]"
+msgstr ""
+
+#: admin.php:1440
+msgid ""
+"In this field you enter the mail to which letters from the form will come."
+msgstr ""
+
+#: admin.php:1441
+msgid ""
+"You can enter multiple email addresses separated by commas without spaces."
+msgstr ""
+
+#: admin.php:1442
+msgid "Example: youmail1@gmail.com,youmail2@gmail.com"
+msgstr ""
+
+#: admin.php:1446
+msgid ""
+"If set by default, the language of the datepicker will be taken from the "
+"localization of your site."
+msgstr ""
+
+#: admin.php:1449
+msgid ""
+"The shortcode [default value] displays the standard text when the form is "
+"submitted. The localization of this text is in the \"Frontend text\" "
+"settings section."
+msgstr ""
+
+#: admin.php:1450
+msgid "If you only want to display your text you can erase the shortcode."
+msgstr ""
+
+#: admin.php:1451
+msgid "help-after-text-en"
+msgstr ""
+
+#: admin.php:1455
+msgid "! The fa fa icon library is disabled, the first style will not work."
+msgstr ""
+
+#: admin.php:1463
+msgid ""
+"If your theme already has styles for the submit button and you want to use "
+"them, you can disable the plugin styles for the button."
+msgstr ""
+
+#: admin.php:1467
+msgid ""
+"The 'total' field will be hidden until all the fields from the formula are "
+"filled."
+msgstr ""
+
+#: include/frontend-form.php:864
+msgid "Please correct the errors and try again"
+msgstr ""
+
+#: quasar-form-main.php:319
+msgid "Select Color"
+msgstr ""
+
+#: quasar-form-main.php:320
+msgid "Clear"
+msgstr ""
+
+#: quasar-form-main.php:330
+msgid "Add form"
+msgstr ""
+
+#: quasar-form-main.php:345
+msgid "Left"
+msgstr ""
+
+#: quasar-form-main.php:346
+msgid "Right"
+msgstr ""
+
+#: quasar-form-main.php:347
+msgid "Center"
+msgstr ""
+
+#: quasar-form-main.php:352
+msgid "Align of form"
+msgstr ""
+
+#: quasar-form-main.php:353
+msgid "Type of form"
+msgstr ""
+
+#: quasar-form-main.php:874
+msgid "Could not attach file"
+msgstr ""
+
+#: quasar-form-main.php:886
+msgid "Message was not sent. Your email settings are incorrect"
+msgstr ""
+
+#: quasar-form-main.php:888
+msgid "Message was not sent. Cause of error"
+msgstr ""

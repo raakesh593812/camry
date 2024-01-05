@@ -1,0 +1,202 @@
+
+.type-checkbox-element label {
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.type-checkbox-element input {
+    display: none;
+}
+
+.checkbox-qform {
+    display: flex;
+    position: relative;
+    content: "";
+    width: 15px;
+    height: 15px;
+    border: 1px solid #a4a4a4;
+    background: #ffffff;
+    margin-right: 5px;
+    box-sizing: border-box;
+    min-width: 15px;
+}
+
+
+.swap-modal-add-form, .swap-modal-add-form-deactivate {
+    position: fixed!important;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #0707076b;
+    z-index: 111111;
+    margin: auto;
+    display: none;
+    overflow: auto;
+}
+
+.modal-add-form, .modal-add-form-deactivate {
+    background-color: #ffffff;
+    max-width: 300px;
+    margin: auto;
+    width: 300px;
+    display: inline-flex;
+    z-index: 222222222;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.swap-selected-block {
+    margin: 10px 20px 10px 20px;
+    width: 100%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.save-element-adm-form {
+    border-bottom: 0px solid #ddd;
+}
+
+.button-add-form, .button-deactivate-quasar-form {
+    background-color: #34c19a;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    transition:0.3s;
+    text-align: center;
+}
+
+.button-add-form:hover{
+    background-color: #168e6d;
+}
+
+.button-deactivate-quasar-form {
+    background-color: #3481c1;
+}
+
+.button-deactivate-quasar-form:hover {
+    background-color: #2d6fa6;
+}
+
+.radio-select input:checked + label .checkbox-fafa {
+    background-color: #34c19a;
+    border-radius: 100%;
+    width: 9px;
+    height: 9px;
+    display: flex;
+    margin: auto;
+}
+.text-popup-q {
+    display: none;
+}
+#text-button-q {
+    height:30px;
+    border-radius:3px;
+    outline:none;
+    border:1px solid #878787;
+    padding:10px;
+    width: 100%;
+    transition:0.3s;
+}
+
+#text-button-q:focus{border-color:#aaaaaa;}
+
+.radio-select .checkbox-qform {
+    border-radius: 100%;
+}
+.block-add-quasar-form {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.text-add-quasar-form {
+    flex-basis: 60%;
+    font-size: 18px;
+ }
+.swap-select-quasar-form {flex-basis: 40%;}
+.swap-add-quasar-form .block-add-quasar-form .select-add-quasar-form {
+    width: 100%;
+    display: flex;
+    margin:auto;
+    font-size: 14px;
+    line-height: 2;
+    color: #32373c;
+    border-color: #7e8993;
+    box-shadow: none;
+    border-radius: 3px;
+    padding: 0 24px 0 8px;
+    min-height: 30px;
+    max-width: 200px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border: 1px solid #7e8993;
+    outline: none;
+}
+
+.heading-add-quasar-form {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #9475b7;
+}
+
+.swap-add-quasar-form {
+    border: 1px solid #a990c5;
+    padding: 14px;
+}
+
+.icon-addquasar-form {color: #9475b7;}
+#add-form-q.add-quasar-form-classic {
+    color:#8654bf;
+    border-color:#9475b7;
+    transition:0.3s;
+}
+#add-form-q.add-quasar-form-classic:hover {
+    background-color:#9475b7;
+    color:#fff;
+    border-color:#9475b7;
+}
+.heading-quasar-add-form {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #9475b7;
+    width: 100%;
+    border-bottom: 1px solid #d6d5d5;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: #ececec;
+}
+
+.text-deactivate-1 {
+    font-size: 16px;
+    color: #9475b7;
+}
+
+.modal-add-form-deactivate {
+    width: 100%;
+    max-width: 400px;
+}
+
+.message-deacticate-quasar-form {
+    width:100%;
+    padding:10px;
+    height:100px;
+}
+
+.text-deactivate-2 {
+    margin-bottom: 10px;
+}
+
+.swap-modal-add-form-deactivate .radio-select input:checked + label .checkbox-fafa {
+    background-color: #3481c1;
+}
+
+.requed-message-deactivate {border-color: #ff0000!important }
+.none-block-q {display:none;}
